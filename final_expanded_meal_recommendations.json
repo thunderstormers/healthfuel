@@ -1,0 +1,4844 @@
+{
+    "data": [
+        {
+            "tag": "Muscle Building",
+            "patterns": [
+                "Suggest a muscle building meal",
+                "I need a meal for muscle building",
+                "Recommend a muscle building diet",
+                "What should I eat for muscle building goals?",
+                "Give me a muscle building meal plan"
+            ],
+            "responses": [
+                {
+                    "meal": "Grilled chicken with quinoa and steamed broccoli",
+                    "calories": 352,
+                    "protein": 41,
+                    "carbs": 9,
+                    "fat": 12,
+                    "description": "Steam the ingredients for 10 minutes to retain nutrients."
+                },
+                {
+                    "meal": "Scrambled eggs with turkey and spinach",
+                    "calories": 616,
+                    "protein": 23,
+                    "carbs": 65,
+                    "fat": 13,
+                    "description": "Saut\u00e9 in olive oil over medium heat for 7 minutes."
+                },
+                {
+                    "meal": "Salmon with sweet potatoes and asparagus",
+                    "calories": 515,
+                    "protein": 39,
+                    "carbs": 30,
+                    "fat": 18,
+                    "description": "Bake at 180\u00b0C for 20 minutes until fully cooked."
+                },
+                {
+                    "meal": "Beef steak with roasted vegetables and avocado",
+                    "calories": 438,
+                    "protein": 29,
+                    "carbs": 16,
+                    "fat": 16,
+                    "description": "Blend all ingredients together until smooth."
+                }
+            ]
+        },
+        {
+            "tag": "Plant-Based",
+            "patterns": [
+                "Suggest a plant-based meal",
+                "I need a meal for plant-based",
+                "Recommend a plant-based diet",
+                "What should I eat for plant-based goals?",
+                "Give me a plant-based meal plan"
+            ],
+            "responses": [
+                {
+                    "meal": "Lentil and quinoa power bowl",
+                    "calories": 276,
+                    "protein": 36,
+                    "carbs": 56,
+                    "fat": 13,
+                    "description": "Grill the ingredients for 10 minutes until golden brown."
+                },
+                {
+                    "meal": "Chickpea and spinach curry with brown rice",
+                    "calories": 558,
+                    "protein": 39,
+                    "carbs": 18,
+                    "fat": 17,
+                    "description": "Roast in an oven at 200\u00b0C for 25 minutes until crispy."
+                },
+                {
+                    "meal": "Tofu and vegetable stir-fry with soy sauce",
+                    "calories": 383,
+                    "protein": 28,
+                    "carbs": 39,
+                    "fat": 28,
+                    "description": "Mix all ingredients and let it rest for 30 minutes before serving."
+                },
+                {
+                    "meal": "Mushroom risotto with cashew cream",
+                    "calories": 550,
+                    "protein": 22,
+                    "carbs": 71,
+                    "fat": 25,
+                    "description": "Mix all ingredients and let it rest for 30 minutes before serving."
+                }
+            ]
+        },
+        {
+            "tag": "Low Sugar",
+            "patterns": [
+                "Suggest a low sugar meal",
+                "I need a meal for low sugar",
+                "Recommend a low sugar diet",
+                "What should I eat for low sugar goals?",
+                "Give me a low sugar meal plan"
+            ],
+            "responses": [
+                {
+                    "meal": "Grilled salmon with roasted Brussels sprouts",
+                    "calories": 365,
+                    "protein": 19,
+                    "carbs": 11,
+                    "fat": 15,
+                    "description": "Saut\u00e9 in olive oil over medium heat for 7 minutes."
+                },
+                {
+                    "meal": "Oatmeal with nuts and berries (no added sugar)",
+                    "calories": 303,
+                    "protein": 55,
+                    "carbs": 69,
+                    "fat": 5,
+                    "description": "Steam the ingredients for 10 minutes to retain nutrients."
+                },
+                {
+                    "meal": "Quinoa and black bean salad with lemon dressing",
+                    "calories": 497,
+                    "protein": 18,
+                    "carbs": 57,
+                    "fat": 28,
+                    "description": "Grill the ingredients for 10 minutes until golden brown."
+                },
+                {
+                    "meal": "Egg white omelette with spinach and feta cheese",
+                    "calories": 502,
+                    "protein": 13,
+                    "carbs": 27,
+                    "fat": 18,
+                    "description": "Boil in salted water for 15 minutes until tender."
+                }
+            ]
+        },
+        {
+            "tag": "Weight Management",
+            "patterns": [
+                "Suggest a weight management meal",
+                "I need a meal for weight management",
+                "Recommend a weight management diet",
+                "What should I eat for weight management goals?",
+                "Give me a weight management meal plan"
+            ],
+            "responses": [
+                {
+                    "meal": "Zucchini noodles with grilled shrimp",
+                    "calories": 517,
+                    "protein": 37,
+                    "carbs": 29,
+                    "fat": 21,
+                    "description": "Roast in an oven at 200\u00b0C for 25 minutes until crispy."
+                },
+                {
+                    "meal": "Grilled chicken Caesar salad (no croutons)",
+                    "calories": 363,
+                    "protein": 10,
+                    "carbs": 46,
+                    "fat": 25,
+                    "description": "Blend all ingredients together until smooth."
+                },
+                {
+                    "meal": "Egg salad with avocado and mixed greens",
+                    "calories": 336,
+                    "protein": 38,
+                    "carbs": 12,
+                    "fat": 11,
+                    "description": "Steam the ingredients for 10 minutes to retain nutrients."
+                },
+                {
+                    "meal": "Stuffed bell peppers with ground turkey and cheese",
+                    "calories": 454,
+                    "protein": 32,
+                    "carbs": 61,
+                    "fat": 27,
+                    "description": "Slow cook for 4 hours for deep flavor infusion."
+                }
+            ]
+        },
+        {
+            "tag": "Caloric Deficit",
+            "patterns": [
+                "Suggest a caloric deficit meal",
+                "I need a meal for caloric deficit",
+                "Recommend a caloric deficit diet",
+                "What should I eat for caloric deficit goals?",
+                "Give me a caloric deficit meal plan"
+            ],
+            "responses": [
+                {
+                    "meal": "Steamed fish with quinoa and mixed greens",
+                    "calories": 299,
+                    "protein": 38,
+                    "carbs": 51,
+                    "fat": 21,
+                    "description": "Bake at 180\u00b0C for 20 minutes until fully cooked."
+                },
+                {
+                    "meal": "Vegetable soup with lentils and herbs",
+                    "calories": 315,
+                    "protein": 24,
+                    "carbs": 30,
+                    "fat": 17,
+                    "description": "Boil in salted water for 15 minutes until tender."
+                },
+                {
+                    "meal": "Turkey lettuce wraps with salsa",
+                    "calories": 623,
+                    "protein": 60,
+                    "carbs": 70,
+                    "fat": 24,
+                    "description": "Roast in an oven at 200\u00b0C for 25 minutes until crispy."
+                },
+                {
+                    "meal": "Cucumber and tomato salad with grilled chicken",
+                    "calories": 586,
+                    "protein": 19,
+                    "carbs": 33,
+                    "fat": 30,
+                    "description": "Stir-fry in a pan over medium heat for 5 minutes."
+                }
+            ]
+        },
+        {
+            "tag": "High Protein",
+            "patterns": [
+                "Suggest a high protein meal",
+                "I need a meal for high protein",
+                "Recommend a high protein diet",
+                "What should I eat for high protein goals?",
+                "Give me a high protein meal plan"
+            ],
+            "responses": [
+                {
+                    "meal": "Chicken breast with quinoa and steamed vegetables",
+                    "calories": 438,
+                    "protein": 25,
+                    "carbs": 62,
+                    "fat": 9,
+                    "description": "Stir-fry in a pan over medium heat for 5 minutes."
+                },
+                {
+                    "meal": "Tuna salad with whole grain bread",
+                    "calories": 488,
+                    "protein": 26,
+                    "carbs": 27,
+                    "fat": 22,
+                    "description": "Grill the ingredients for 10 minutes until golden brown."
+                },
+                {
+                    "meal": "Protein smoothie with banana, peanut butter, and milk",
+                    "calories": 444,
+                    "protein": 18,
+                    "carbs": 24,
+                    "fat": 23,
+                    "description": "Boil in salted water for 15 minutes until tender."
+                },
+                {
+                    "meal": "Eggs with whole grain toast and smoked salmon",
+                    "calories": 652,
+                    "protein": 23,
+                    "carbs": 25,
+                    "fat": 7,
+                    "description": "Grill the ingredients for 10 minutes until golden brown."
+                }
+            ]
+        },
+        {
+            "tag": "Low Carb, High Fat",
+            "patterns": [
+                "Suggest a low carb, high fat meal",
+                "I need a meal for low carb, high fat",
+                "Recommend a low carb, high fat diet",
+                "What should I eat for low carb, high fat goals?",
+                "Give me a low carb, high fat meal plan"
+            ],
+            "responses": [
+                {
+                    "meal": "Cheese and nuts with olives",
+                    "calories": 421,
+                    "protein": 50,
+                    "carbs": 78,
+                    "fat": 13,
+                    "description": "Blend all ingredients together until smooth."
+                },
+                {
+                    "meal": "Grilled salmon with creamy spinach",
+                    "calories": 353,
+                    "protein": 29,
+                    "carbs": 19,
+                    "fat": 30,
+                    "description": "Steam the ingredients for 10 minutes to retain nutrients."
+                },
+                {
+                    "meal": "Avocado with cheese and almonds",
+                    "calories": 413,
+                    "protein": 34,
+                    "carbs": 29,
+                    "fat": 17,
+                    "description": "Boil in salted water for 15 minutes until tender."
+                },
+                {
+                    "meal": "Zucchini noodles with Alfredo sauce and shrimp",
+                    "calories": 408,
+                    "protein": 10,
+                    "carbs": 35,
+                    "fat": 22,
+                    "description": "Blend all ingredients together until smooth."
+                }
+            ]
+        },
+        {
+            "tag": "Allergy-Friendly",
+            "patterns": [
+                "Suggest a allergy-friendly meal",
+                "I need a meal for allergy-friendly",
+                "Recommend a allergy-friendly diet",
+                "What should I eat for allergy-friendly goals?",
+                "Give me a allergy-friendly meal plan"
+            ],
+            "responses": [
+                {
+                    "meal": "Grilled chicken salad with avocado",
+                    "calories": 567,
+                    "protein": 42,
+                    "carbs": 30,
+                    "fat": 27,
+                    "description": "Mix all ingredients and let it rest for 30 minutes before serving."
+                },
+                {
+                    "meal": "Quinoa and vegetable stir-fry",
+                    "calories": 529,
+                    "protein": 23,
+                    "carbs": 76,
+                    "fat": 8,
+                    "description": "Saut\u00e9 in olive oil over medium heat for 7 minutes."
+                },
+                {
+                    "meal": "Shrimp and broccoli stir-fry with coconut aminos",
+                    "calories": 575,
+                    "protein": 27,
+                    "carbs": 41,
+                    "fat": 28,
+                    "description": "Mix all ingredients and let it rest for 30 minutes before serving."
+                },
+                {
+                    "meal": "Baked salmon with asparagus and roasted potatoes",
+                    "calories": 579,
+                    "protein": 50,
+                    "carbs": 55,
+                    "fat": 10,
+                    "description": "Boil in salted water for 15 minutes until tender."
+                }
+            ]
+        },
+        {
+            "tag": "Energy Boosting",
+            "patterns": [
+                "Suggest a energy boosting meal",
+                "I need a meal for energy boosting",
+                "Recommend a energy boosting diet",
+                "What should I eat for energy boosting goals?",
+                "Give me a energy boosting meal plan"
+            ],
+            "responses": [
+                {
+                    "meal": "Brown rice with grilled salmon and steamed veggies",
+                    "calories": 269,
+                    "protein": 58,
+                    "carbs": 51,
+                    "fat": 7,
+                    "description": "Stir-fry in a pan over medium heat for 5 minutes."
+                },
+                {
+                    "meal": "Whole wheat pasta with lean beef and tomato sauce",
+                    "calories": 303,
+                    "protein": 14,
+                    "carbs": 59,
+                    "fat": 10,
+                    "description": "Blend all ingredients together until smooth."
+                },
+                {
+                    "meal": "Oatmeal with banana and almond butter",
+                    "calories": 631,
+                    "protein": 37,
+                    "carbs": 71,
+                    "fat": 15,
+                    "description": "Grill the ingredients for 10 minutes until golden brown."
+                },
+                {
+                    "meal": "Sweet potato and black bean burrito",
+                    "calories": 508,
+                    "protein": 17,
+                    "carbs": 9,
+                    "fat": 22,
+                    "description": "Grill the ingredients for 10 minutes until golden brown."
+                }
+            ]
+        },
+        {
+            "tag": "Heart Healthy",
+            "patterns": [
+                "Suggest a heart healthy meal",
+                "I need a meal for heart healthy",
+                "Recommend a heart healthy diet",
+                "What should I eat for heart healthy goals?",
+                "Give me a heart healthy meal plan"
+            ],
+            "responses": [
+                {
+                    "meal": "Hummus with whole grain pita and Greek salad",
+                    "calories": 535,
+                    "protein": 49,
+                    "carbs": 52,
+                    "fat": 8,
+                    "description": "Blend all ingredients together until smooth."
+                },
+                {
+                    "meal": "Grilled fish with olives, tomatoes, and feta cheese",
+                    "calories": 546,
+                    "protein": 59,
+                    "carbs": 45,
+                    "fat": 25,
+                    "description": "Bake at 180\u00b0C for 20 minutes until fully cooked."
+                },
+                {
+                    "meal": "Lentil soup with olive oil and lemon",
+                    "calories": 353,
+                    "protein": 39,
+                    "carbs": 47,
+                    "fat": 7,
+                    "description": "Saut\u00e9 in olive oil over medium heat for 7 minutes."
+                },
+                {
+                    "meal": "Tabbouleh salad with grilled chicken",
+                    "calories": 383,
+                    "protein": 19,
+                    "carbs": 55,
+                    "fat": 16,
+                    "description": "Blend all ingredients together until smooth."
+                }
+            ]
+        },
+        {
+            "tag": "Muscle Building",
+            "patterns": [
+                "Suggest a muscle building meal",
+                "I need a meal for muscle building",
+                "Recommend a muscle building diet",
+                "What should I eat for muscle building goals?",
+                "Give me a muscle building meal plan"
+            ],
+            "responses": [
+                {
+                    "meal": "Grilled chicken with quinoa and steamed broccoli",
+                    "calories": 637,
+                    "protein": 11,
+                    "carbs": 75,
+                    "fat": 28,
+                    "description": "Mix all ingredients and let it rest for 30 minutes before serving."
+                },
+                {
+                    "meal": "Scrambled eggs with turkey and spinach",
+                    "calories": 587,
+                    "protein": 10,
+                    "carbs": 27,
+                    "fat": 28,
+                    "description": "Saut\u00e9 in olive oil over medium heat for 7 minutes."
+                },
+                {
+                    "meal": "Salmon with sweet potatoes and asparagus",
+                    "calories": 537,
+                    "protein": 17,
+                    "carbs": 68,
+                    "fat": 7,
+                    "description": "Boil in salted water for 15 minutes until tender."
+                },
+                {
+                    "meal": "Beef steak with roasted vegetables and avocado",
+                    "calories": 582,
+                    "protein": 45,
+                    "carbs": 66,
+                    "fat": 21,
+                    "description": "Steam the ingredients for 10 minutes to retain nutrients."
+                }
+            ]
+        },
+        {
+            "tag": "Plant-Based",
+            "patterns": [
+                "Suggest a plant-based meal",
+                "I need a meal for plant-based",
+                "Recommend a plant-based diet",
+                "What should I eat for plant-based goals?",
+                "Give me a plant-based meal plan"
+            ],
+            "responses": [
+                {
+                    "meal": "Lentil and quinoa power bowl",
+                    "calories": 517,
+                    "protein": 29,
+                    "carbs": 31,
+                    "fat": 11,
+                    "description": "Grill the ingredients for 10 minutes until golden brown."
+                },
+                {
+                    "meal": "Chickpea and spinach curry with brown rice",
+                    "calories": 326,
+                    "protein": 48,
+                    "carbs": 44,
+                    "fat": 27,
+                    "description": "Mix all ingredients and let it rest for 30 minutes before serving."
+                },
+                {
+                    "meal": "Tofu and vegetable stir-fry with soy sauce",
+                    "calories": 615,
+                    "protein": 46,
+                    "carbs": 72,
+                    "fat": 17,
+                    "description": "Saut\u00e9 in olive oil over medium heat for 7 minutes."
+                },
+                {
+                    "meal": "Mushroom risotto with cashew cream",
+                    "calories": 367,
+                    "protein": 11,
+                    "carbs": 5,
+                    "fat": 27,
+                    "description": "Boil in salted water for 15 minutes until tender."
+                }
+            ]
+        },
+        {
+            "tag": "Low Sugar",
+            "patterns": [
+                "Suggest a low sugar meal",
+                "I need a meal for low sugar",
+                "Recommend a low sugar diet",
+                "What should I eat for low sugar goals?",
+                "Give me a low sugar meal plan"
+            ],
+            "responses": [
+                {
+                    "meal": "Grilled salmon with roasted Brussels sprouts",
+                    "calories": 520,
+                    "protein": 49,
+                    "carbs": 71,
+                    "fat": 18,
+                    "description": "Steam the ingredients for 10 minutes to retain nutrients."
+                },
+                {
+                    "meal": "Oatmeal with nuts and berries (no added sugar)",
+                    "calories": 539,
+                    "protein": 55,
+                    "carbs": 71,
+                    "fat": 30,
+                    "description": "Saut\u00e9 in olive oil over medium heat for 7 minutes."
+                },
+                {
+                    "meal": "Quinoa and black bean salad with lemon dressing",
+                    "calories": 287,
+                    "protein": 20,
+                    "carbs": 17,
+                    "fat": 10,
+                    "description": "Steam the ingredients for 10 minutes to retain nutrients."
+                },
+                {
+                    "meal": "Egg white omelette with spinach and feta cheese",
+                    "calories": 650,
+                    "protein": 25,
+                    "carbs": 37,
+                    "fat": 29,
+                    "description": "Blend all ingredients together until smooth."
+                }
+            ]
+        },
+        {
+            "tag": "Weight Management",
+            "patterns": [
+                "Suggest a weight management meal",
+                "I need a meal for weight management",
+                "Recommend a weight management diet",
+                "What should I eat for weight management goals?",
+                "Give me a weight management meal plan"
+            ],
+            "responses": [
+                {
+                    "meal": "Zucchini noodles with grilled shrimp",
+                    "calories": 567,
+                    "protein": 59,
+                    "carbs": 51,
+                    "fat": 19,
+                    "description": "Saut\u00e9 in olive oil over medium heat for 7 minutes."
+                },
+                {
+                    "meal": "Grilled chicken Caesar salad (no croutons)",
+                    "calories": 681,
+                    "protein": 10,
+                    "carbs": 37,
+                    "fat": 30,
+                    "description": "Blend all ingredients together until smooth."
+                },
+                {
+                    "meal": "Egg salad with avocado and mixed greens",
+                    "calories": 530,
+                    "protein": 11,
+                    "carbs": 20,
+                    "fat": 20,
+                    "description": "Blend all ingredients together until smooth."
+                },
+                {
+                    "meal": "Stuffed bell peppers with ground turkey and cheese",
+                    "calories": 310,
+                    "protein": 42,
+                    "carbs": 70,
+                    "fat": 8,
+                    "description": "Mix all ingredients and let it rest for 30 minutes before serving."
+                }
+            ]
+        },
+        {
+            "tag": "Caloric Deficit",
+            "patterns": [
+                "Suggest a caloric deficit meal",
+                "I need a meal for caloric deficit",
+                "Recommend a caloric deficit diet",
+                "What should I eat for caloric deficit goals?",
+                "Give me a caloric deficit meal plan"
+            ],
+            "responses": [
+                {
+                    "meal": "Steamed fish with quinoa and mixed greens",
+                    "calories": 322,
+                    "protein": 14,
+                    "carbs": 59,
+                    "fat": 21,
+                    "description": "Mix all ingredients and let it rest for 30 minutes before serving."
+                },
+                {
+                    "meal": "Vegetable soup with lentils and herbs",
+                    "calories": 455,
+                    "protein": 19,
+                    "carbs": 26,
+                    "fat": 13,
+                    "description": "Grill the ingredients for 10 minutes until golden brown."
+                },
+                {
+                    "meal": "Turkey lettuce wraps with salsa",
+                    "calories": 257,
+                    "protein": 26,
+                    "carbs": 8,
+                    "fat": 23,
+                    "description": "Blend all ingredients together until smooth."
+                },
+                {
+                    "meal": "Cucumber and tomato salad with grilled chicken",
+                    "calories": 537,
+                    "protein": 23,
+                    "carbs": 61,
+                    "fat": 6,
+                    "description": "Roast in an oven at 200\u00b0C for 25 minutes until crispy."
+                }
+            ]
+        },
+        {
+            "tag": "High Protein",
+            "patterns": [
+                "Suggest a high protein meal",
+                "I need a meal for high protein",
+                "Recommend a high protein diet",
+                "What should I eat for high protein goals?",
+                "Give me a high protein meal plan"
+            ],
+            "responses": [
+                {
+                    "meal": "Chicken breast with quinoa and steamed vegetables",
+                    "calories": 356,
+                    "protein": 10,
+                    "carbs": 80,
+                    "fat": 6,
+                    "description": "Boil in salted water for 15 minutes until tender."
+                },
+                {
+                    "meal": "Tuna salad with whole grain bread",
+                    "calories": 596,
+                    "protein": 16,
+                    "carbs": 68,
+                    "fat": 30,
+                    "description": "Slow cook for 4 hours for deep flavor infusion."
+                },
+                {
+                    "meal": "Protein smoothie with banana, peanut butter, and milk",
+                    "calories": 465,
+                    "protein": 41,
+                    "carbs": 72,
+                    "fat": 15,
+                    "description": "Steam the ingredients for 10 minutes to retain nutrients."
+                },
+                {
+                    "meal": "Eggs with whole grain toast and smoked salmon",
+                    "calories": 678,
+                    "protein": 58,
+                    "carbs": 18,
+                    "fat": 28,
+                    "description": "Grill the ingredients for 10 minutes until golden brown."
+                }
+            ]
+        },
+        {
+            "tag": "Low Carb, High Fat",
+            "patterns": [
+                "Suggest a low carb, high fat meal",
+                "I need a meal for low carb, high fat",
+                "Recommend a low carb, high fat diet",
+                "What should I eat for low carb, high fat goals?",
+                "Give me a low carb, high fat meal plan"
+            ],
+            "responses": [
+                {
+                    "meal": "Cheese and nuts with olives",
+                    "calories": 387,
+                    "protein": 57,
+                    "carbs": 50,
+                    "fat": 26,
+                    "description": "Slow cook for 4 hours for deep flavor infusion."
+                },
+                {
+                    "meal": "Grilled salmon with creamy spinach",
+                    "calories": 670,
+                    "protein": 12,
+                    "carbs": 50,
+                    "fat": 13,
+                    "description": "Grill the ingredients for 10 minutes until golden brown."
+                },
+                {
+                    "meal": "Avocado with cheese and almonds",
+                    "calories": 630,
+                    "protein": 58,
+                    "carbs": 57,
+                    "fat": 22,
+                    "description": "Grill the ingredients for 10 minutes until golden brown."
+                },
+                {
+                    "meal": "Zucchini noodles with Alfredo sauce and shrimp",
+                    "calories": 365,
+                    "protein": 25,
+                    "carbs": 7,
+                    "fat": 30,
+                    "description": "Roast in an oven at 200\u00b0C for 25 minutes until crispy."
+                }
+            ]
+        },
+        {
+            "tag": "Allergy-Friendly",
+            "patterns": [
+                "Suggest a allergy-friendly meal",
+                "I need a meal for allergy-friendly",
+                "Recommend a allergy-friendly diet",
+                "What should I eat for allergy-friendly goals?",
+                "Give me a allergy-friendly meal plan"
+            ],
+            "responses": [
+                {
+                    "meal": "Grilled chicken salad with avocado",
+                    "calories": 700,
+                    "protein": 25,
+                    "carbs": 43,
+                    "fat": 26,
+                    "description": "Slow cook for 4 hours for deep flavor infusion."
+                },
+                {
+                    "meal": "Quinoa and vegetable stir-fry",
+                    "calories": 555,
+                    "protein": 21,
+                    "carbs": 77,
+                    "fat": 5,
+                    "description": "Blend all ingredients together until smooth."
+                },
+                {
+                    "meal": "Shrimp and broccoli stir-fry with coconut aminos",
+                    "calories": 355,
+                    "protein": 58,
+                    "carbs": 17,
+                    "fat": 25,
+                    "description": "Mix all ingredients and let it rest for 30 minutes before serving."
+                },
+                {
+                    "meal": "Baked salmon with asparagus and roasted potatoes",
+                    "calories": 579,
+                    "protein": 53,
+                    "carbs": 34,
+                    "fat": 12,
+                    "description": "Saut\u00e9 in olive oil over medium heat for 7 minutes."
+                }
+            ]
+        },
+        {
+            "tag": "Energy Boosting",
+            "patterns": [
+                "Suggest a energy boosting meal",
+                "I need a meal for energy boosting",
+                "Recommend a energy boosting diet",
+                "What should I eat for energy boosting goals?",
+                "Give me a energy boosting meal plan"
+            ],
+            "responses": [
+                {
+                    "meal": "Brown rice with grilled salmon and steamed veggies",
+                    "calories": 534,
+                    "protein": 23,
+                    "carbs": 80,
+                    "fat": 14,
+                    "description": "Saut\u00e9 in olive oil over medium heat for 7 minutes."
+                },
+                {
+                    "meal": "Whole wheat pasta with lean beef and tomato sauce",
+                    "calories": 486,
+                    "protein": 33,
+                    "carbs": 20,
+                    "fat": 13,
+                    "description": "Grill the ingredients for 10 minutes until golden brown."
+                },
+                {
+                    "meal": "Oatmeal with banana and almond butter",
+                    "calories": 525,
+                    "protein": 45,
+                    "carbs": 38,
+                    "fat": 8,
+                    "description": "Boil in salted water for 15 minutes until tender."
+                },
+                {
+                    "meal": "Sweet potato and black bean burrito",
+                    "calories": 669,
+                    "protein": 10,
+                    "carbs": 75,
+                    "fat": 26,
+                    "description": "Slow cook for 4 hours for deep flavor infusion."
+                }
+            ]
+        },
+        {
+            "tag": "Heart Healthy",
+            "patterns": [
+                "Suggest a heart healthy meal",
+                "I need a meal for heart healthy",
+                "Recommend a heart healthy diet",
+                "What should I eat for heart healthy goals?",
+                "Give me a heart healthy meal plan"
+            ],
+            "responses": [
+                {
+                    "meal": "Hummus with whole grain pita and Greek salad",
+                    "calories": 399,
+                    "protein": 54,
+                    "carbs": 62,
+                    "fat": 6,
+                    "description": "Grill the ingredients for 10 minutes until golden brown."
+                },
+                {
+                    "meal": "Grilled fish with olives, tomatoes, and feta cheese",
+                    "calories": 383,
+                    "protein": 54,
+                    "carbs": 31,
+                    "fat": 21,
+                    "description": "Blend all ingredients together until smooth."
+                },
+                {
+                    "meal": "Lentil soup with olive oil and lemon",
+                    "calories": 382,
+                    "protein": 50,
+                    "carbs": 77,
+                    "fat": 21,
+                    "description": "Mix all ingredients and let it rest for 30 minutes before serving."
+                },
+                {
+                    "meal": "Tabbouleh salad with grilled chicken",
+                    "calories": 551,
+                    "protein": 35,
+                    "carbs": 77,
+                    "fat": 15,
+                    "description": "Mix all ingredients and let it rest for 30 minutes before serving."
+                }
+            ]
+        },
+        {
+            "tag": "Muscle Building",
+            "patterns": [
+                "Suggest a muscle building meal",
+                "I need a meal for muscle building",
+                "Recommend a muscle building diet",
+                "What should I eat for muscle building goals?",
+                "Give me a muscle building meal plan"
+            ],
+            "responses": [
+                {
+                    "meal": "Grilled chicken with quinoa and steamed broccoli",
+                    "calories": 651,
+                    "protein": 11,
+                    "carbs": 14,
+                    "fat": 23,
+                    "description": "Mix all ingredients and let it rest for 30 minutes before serving."
+                },
+                {
+                    "meal": "Scrambled eggs with turkey and spinach",
+                    "calories": 691,
+                    "protein": 57,
+                    "carbs": 33,
+                    "fat": 18,
+                    "description": "Stir-fry in a pan over medium heat for 5 minutes."
+                },
+                {
+                    "meal": "Salmon with sweet potatoes and asparagus",
+                    "calories": 321,
+                    "protein": 29,
+                    "carbs": 65,
+                    "fat": 12,
+                    "description": "Blend all ingredients together until smooth."
+                },
+                {
+                    "meal": "Beef steak with roasted vegetables and avocado",
+                    "calories": 359,
+                    "protein": 52,
+                    "carbs": 14,
+                    "fat": 23,
+                    "description": "Grill the ingredients for 10 minutes until golden brown."
+                }
+            ]
+        },
+        {
+            "tag": "Plant-Based",
+            "patterns": [
+                "Suggest a plant-based meal",
+                "I need a meal for plant-based",
+                "Recommend a plant-based diet",
+                "What should I eat for plant-based goals?",
+                "Give me a plant-based meal plan"
+            ],
+            "responses": [
+                {
+                    "meal": "Lentil and quinoa power bowl",
+                    "calories": 686,
+                    "protein": 24,
+                    "carbs": 57,
+                    "fat": 19,
+                    "description": "Blend all ingredients together until smooth."
+                },
+                {
+                    "meal": "Chickpea and spinach curry with brown rice",
+                    "calories": 287,
+                    "protein": 25,
+                    "carbs": 51,
+                    "fat": 7,
+                    "description": "Stir-fry in a pan over medium heat for 5 minutes."
+                },
+                {
+                    "meal": "Tofu and vegetable stir-fry with soy sauce",
+                    "calories": 368,
+                    "protein": 28,
+                    "carbs": 5,
+                    "fat": 5,
+                    "description": "Slow cook for 4 hours for deep flavor infusion."
+                },
+                {
+                    "meal": "Mushroom risotto with cashew cream",
+                    "calories": 288,
+                    "protein": 54,
+                    "carbs": 79,
+                    "fat": 10,
+                    "description": "Steam the ingredients for 10 minutes to retain nutrients."
+                }
+            ]
+        },
+        {
+            "tag": "Low Sugar",
+            "patterns": [
+                "Suggest a low sugar meal",
+                "I need a meal for low sugar",
+                "Recommend a low sugar diet",
+                "What should I eat for low sugar goals?",
+                "Give me a low sugar meal plan"
+            ],
+            "responses": [
+                {
+                    "meal": "Grilled salmon with roasted Brussels sprouts",
+                    "calories": 415,
+                    "protein": 14,
+                    "carbs": 48,
+                    "fat": 21,
+                    "description": "Boil in salted water for 15 minutes until tender."
+                },
+                {
+                    "meal": "Oatmeal with nuts and berries (no added sugar)",
+                    "calories": 540,
+                    "protein": 58,
+                    "carbs": 53,
+                    "fat": 24,
+                    "description": "Roast in an oven at 200\u00b0C for 25 minutes until crispy."
+                },
+                {
+                    "meal": "Quinoa and black bean salad with lemon dressing",
+                    "calories": 567,
+                    "protein": 29,
+                    "carbs": 32,
+                    "fat": 29,
+                    "description": "Blend all ingredients together until smooth."
+                },
+                {
+                    "meal": "Egg white omelette with spinach and feta cheese",
+                    "calories": 311,
+                    "protein": 54,
+                    "carbs": 21,
+                    "fat": 26,
+                    "description": "Saut\u00e9 in olive oil over medium heat for 7 minutes."
+                }
+            ]
+        },
+        {
+            "tag": "Weight Management",
+            "patterns": [
+                "Suggest a weight management meal",
+                "I need a meal for weight management",
+                "Recommend a weight management diet",
+                "What should I eat for weight management goals?",
+                "Give me a weight management meal plan"
+            ],
+            "responses": [
+                {
+                    "meal": "Zucchini noodles with grilled shrimp",
+                    "calories": 318,
+                    "protein": 39,
+                    "carbs": 36,
+                    "fat": 16,
+                    "description": "Bake at 180\u00b0C for 20 minutes until fully cooked."
+                },
+                {
+                    "meal": "Grilled chicken Caesar salad (no croutons)",
+                    "calories": 291,
+                    "protein": 32,
+                    "carbs": 57,
+                    "fat": 19,
+                    "description": "Bake at 180\u00b0C for 20 minutes until fully cooked."
+                },
+                {
+                    "meal": "Egg salad with avocado and mixed greens",
+                    "calories": 681,
+                    "protein": 60,
+                    "carbs": 25,
+                    "fat": 9,
+                    "description": "Mix all ingredients and let it rest for 30 minutes before serving."
+                },
+                {
+                    "meal": "Stuffed bell peppers with ground turkey and cheese",
+                    "calories": 348,
+                    "protein": 60,
+                    "carbs": 23,
+                    "fat": 15,
+                    "description": "Slow cook for 4 hours for deep flavor infusion."
+                }
+            ]
+        },
+        {
+            "tag": "Caloric Deficit",
+            "patterns": [
+                "Suggest a caloric deficit meal",
+                "I need a meal for caloric deficit",
+                "Recommend a caloric deficit diet",
+                "What should I eat for caloric deficit goals?",
+                "Give me a caloric deficit meal plan"
+            ],
+            "responses": [
+                {
+                    "meal": "Steamed fish with quinoa and mixed greens",
+                    "calories": 372,
+                    "protein": 22,
+                    "carbs": 47,
+                    "fat": 5,
+                    "description": "Mix all ingredients and let it rest for 30 minutes before serving."
+                },
+                {
+                    "meal": "Vegetable soup with lentils and herbs",
+                    "calories": 480,
+                    "protein": 12,
+                    "carbs": 76,
+                    "fat": 10,
+                    "description": "Mix all ingredients and let it rest for 30 minutes before serving."
+                },
+                {
+                    "meal": "Turkey lettuce wraps with salsa",
+                    "calories": 432,
+                    "protein": 49,
+                    "carbs": 55,
+                    "fat": 20,
+                    "description": "Slow cook for 4 hours for deep flavor infusion."
+                },
+                {
+                    "meal": "Cucumber and tomato salad with grilled chicken",
+                    "calories": 493,
+                    "protein": 28,
+                    "carbs": 63,
+                    "fat": 16,
+                    "description": "Mix all ingredients and let it rest for 30 minutes before serving."
+                }
+            ]
+        },
+        {
+            "tag": "High Protein",
+            "patterns": [
+                "Suggest a high protein meal",
+                "I need a meal for high protein",
+                "Recommend a high protein diet",
+                "What should I eat for high protein goals?",
+                "Give me a high protein meal plan"
+            ],
+            "responses": [
+                {
+                    "meal": "Chicken breast with quinoa and steamed vegetables",
+                    "calories": 324,
+                    "protein": 49,
+                    "carbs": 50,
+                    "fat": 5,
+                    "description": "Blend all ingredients together until smooth."
+                },
+                {
+                    "meal": "Tuna salad with whole grain bread",
+                    "calories": 612,
+                    "protein": 44,
+                    "carbs": 24,
+                    "fat": 22,
+                    "description": "Steam the ingredients for 10 minutes to retain nutrients."
+                },
+                {
+                    "meal": "Protein smoothie with banana, peanut butter, and milk",
+                    "calories": 599,
+                    "protein": 42,
+                    "carbs": 9,
+                    "fat": 28,
+                    "description": "Steam the ingredients for 10 minutes to retain nutrients."
+                },
+                {
+                    "meal": "Eggs with whole grain toast and smoked salmon",
+                    "calories": 633,
+                    "protein": 16,
+                    "carbs": 68,
+                    "fat": 8,
+                    "description": "Steam the ingredients for 10 minutes to retain nutrients."
+                }
+            ]
+        },
+        {
+            "tag": "Low Carb, High Fat",
+            "patterns": [
+                "Suggest a low carb, high fat meal",
+                "I need a meal for low carb, high fat",
+                "Recommend a low carb, high fat diet",
+                "What should I eat for low carb, high fat goals?",
+                "Give me a low carb, high fat meal plan"
+            ],
+            "responses": [
+                {
+                    "meal": "Cheese and nuts with olives",
+                    "calories": 597,
+                    "protein": 54,
+                    "carbs": 32,
+                    "fat": 20,
+                    "description": "Grill the ingredients for 10 minutes until golden brown."
+                },
+                {
+                    "meal": "Grilled salmon with creamy spinach",
+                    "calories": 423,
+                    "protein": 23,
+                    "carbs": 49,
+                    "fat": 19,
+                    "description": "Boil in salted water for 15 minutes until tender."
+                },
+                {
+                    "meal": "Avocado with cheese and almonds",
+                    "calories": 377,
+                    "protein": 25,
+                    "carbs": 33,
+                    "fat": 11,
+                    "description": "Slow cook for 4 hours for deep flavor infusion."
+                },
+                {
+                    "meal": "Zucchini noodles with Alfredo sauce and shrimp",
+                    "calories": 551,
+                    "protein": 31,
+                    "carbs": 80,
+                    "fat": 24,
+                    "description": "Blend all ingredients together until smooth."
+                }
+            ]
+        },
+        {
+            "tag": "Allergy-Friendly",
+            "patterns": [
+                "Suggest a allergy-friendly meal",
+                "I need a meal for allergy-friendly",
+                "Recommend a allergy-friendly diet",
+                "What should I eat for allergy-friendly goals?",
+                "Give me a allergy-friendly meal plan"
+            ],
+            "responses": [
+                {
+                    "meal": "Grilled chicken salad with avocado",
+                    "calories": 405,
+                    "protein": 11,
+                    "carbs": 25,
+                    "fat": 29,
+                    "description": "Blend all ingredients together until smooth."
+                },
+                {
+                    "meal": "Quinoa and vegetable stir-fry",
+                    "calories": 302,
+                    "protein": 43,
+                    "carbs": 75,
+                    "fat": 25,
+                    "description": "Boil in salted water for 15 minutes until tender."
+                },
+                {
+                    "meal": "Shrimp and broccoli stir-fry with coconut aminos",
+                    "calories": 335,
+                    "protein": 13,
+                    "carbs": 10,
+                    "fat": 13,
+                    "description": "Roast in an oven at 200\u00b0C for 25 minutes until crispy."
+                },
+                {
+                    "meal": "Baked salmon with asparagus and roasted potatoes",
+                    "calories": 584,
+                    "protein": 43,
+                    "carbs": 18,
+                    "fat": 27,
+                    "description": "Boil in salted water for 15 minutes until tender."
+                }
+            ]
+        },
+        {
+            "tag": "Energy Boosting",
+            "patterns": [
+                "Suggest a energy boosting meal",
+                "I need a meal for energy boosting",
+                "Recommend a energy boosting diet",
+                "What should I eat for energy boosting goals?",
+                "Give me a energy boosting meal plan"
+            ],
+            "responses": [
+                {
+                    "meal": "Brown rice with grilled salmon and steamed veggies",
+                    "calories": 350,
+                    "protein": 16,
+                    "carbs": 11,
+                    "fat": 19,
+                    "description": "Steam the ingredients for 10 minutes to retain nutrients."
+                },
+                {
+                    "meal": "Whole wheat pasta with lean beef and tomato sauce",
+                    "calories": 355,
+                    "protein": 45,
+                    "carbs": 40,
+                    "fat": 27,
+                    "description": "Steam the ingredients for 10 minutes to retain nutrients."
+                },
+                {
+                    "meal": "Oatmeal with banana and almond butter",
+                    "calories": 540,
+                    "protein": 23,
+                    "carbs": 57,
+                    "fat": 6,
+                    "description": "Blend all ingredients together until smooth."
+                },
+                {
+                    "meal": "Sweet potato and black bean burrito",
+                    "calories": 475,
+                    "protein": 41,
+                    "carbs": 33,
+                    "fat": 22,
+                    "description": "Steam the ingredients for 10 minutes to retain nutrients."
+                }
+            ]
+        },
+        {
+            "tag": "Heart Healthy",
+            "patterns": [
+                "Suggest a heart healthy meal",
+                "I need a meal for heart healthy",
+                "Recommend a heart healthy diet",
+                "What should I eat for heart healthy goals?",
+                "Give me a heart healthy meal plan"
+            ],
+            "responses": [
+                {
+                    "meal": "Hummus with whole grain pita and Greek salad",
+                    "calories": 399,
+                    "protein": 31,
+                    "carbs": 75,
+                    "fat": 7,
+                    "description": "Mix all ingredients and let it rest for 30 minutes before serving."
+                },
+                {
+                    "meal": "Grilled fish with olives, tomatoes, and feta cheese",
+                    "calories": 435,
+                    "protein": 18,
+                    "carbs": 24,
+                    "fat": 14,
+                    "description": "Blend all ingredients together until smooth."
+                },
+                {
+                    "meal": "Lentil soup with olive oil and lemon",
+                    "calories": 559,
+                    "protein": 28,
+                    "carbs": 33,
+                    "fat": 5,
+                    "description": "Boil in salted water for 15 minutes until tender."
+                },
+                {
+                    "meal": "Tabbouleh salad with grilled chicken",
+                    "calories": 669,
+                    "protein": 56,
+                    "carbs": 75,
+                    "fat": 16,
+                    "description": "Steam the ingredients for 10 minutes to retain nutrients."
+                }
+            ]
+        },
+        {
+            "tag": "Muscle Building",
+            "patterns": [
+                "Suggest a muscle building meal",
+                "I need a meal for muscle building",
+                "Recommend a muscle building diet",
+                "What should I eat for muscle building goals?",
+                "Give me a muscle building meal plan"
+            ],
+            "responses": [
+                {
+                    "meal": "Grilled chicken with quinoa and steamed broccoli",
+                    "calories": 408,
+                    "protein": 29,
+                    "carbs": 14,
+                    "fat": 29,
+                    "description": "Mix all ingredients and let it rest for 30 minutes before serving."
+                },
+                {
+                    "meal": "Scrambled eggs with turkey and spinach",
+                    "calories": 619,
+                    "protein": 29,
+                    "carbs": 63,
+                    "fat": 17,
+                    "description": "Roast in an oven at 200\u00b0C for 25 minutes until crispy."
+                },
+                {
+                    "meal": "Salmon with sweet potatoes and asparagus",
+                    "calories": 686,
+                    "protein": 44,
+                    "carbs": 62,
+                    "fat": 8,
+                    "description": "Roast in an oven at 200\u00b0C for 25 minutes until crispy."
+                },
+                {
+                    "meal": "Beef steak with roasted vegetables and avocado",
+                    "calories": 278,
+                    "protein": 18,
+                    "carbs": 73,
+                    "fat": 15,
+                    "description": "Boil in salted water for 15 minutes until tender."
+                }
+            ]
+        },
+        {
+            "tag": "Plant-Based",
+            "patterns": [
+                "Suggest a plant-based meal",
+                "I need a meal for plant-based",
+                "Recommend a plant-based diet",
+                "What should I eat for plant-based goals?",
+                "Give me a plant-based meal plan"
+            ],
+            "responses": [
+                {
+                    "meal": "Lentil and quinoa power bowl",
+                    "calories": 439,
+                    "protein": 24,
+                    "carbs": 20,
+                    "fat": 24,
+                    "description": "Bake at 180\u00b0C for 20 minutes until fully cooked."
+                },
+                {
+                    "meal": "Chickpea and spinach curry with brown rice",
+                    "calories": 695,
+                    "protein": 36,
+                    "carbs": 62,
+                    "fat": 18,
+                    "description": "Stir-fry in a pan over medium heat for 5 minutes."
+                },
+                {
+                    "meal": "Tofu and vegetable stir-fry with soy sauce",
+                    "calories": 435,
+                    "protein": 24,
+                    "carbs": 8,
+                    "fat": 27,
+                    "description": "Stir-fry in a pan over medium heat for 5 minutes."
+                },
+                {
+                    "meal": "Mushroom risotto with cashew cream",
+                    "calories": 377,
+                    "protein": 36,
+                    "carbs": 52,
+                    "fat": 21,
+                    "description": "Boil in salted water for 15 minutes until tender."
+                }
+            ]
+        },
+        {
+            "tag": "Low Sugar",
+            "patterns": [
+                "Suggest a low sugar meal",
+                "I need a meal for low sugar",
+                "Recommend a low sugar diet",
+                "What should I eat for low sugar goals?",
+                "Give me a low sugar meal plan"
+            ],
+            "responses": [
+                {
+                    "meal": "Grilled salmon with roasted Brussels sprouts",
+                    "calories": 417,
+                    "protein": 26,
+                    "carbs": 26,
+                    "fat": 18,
+                    "description": "Mix all ingredients and let it rest for 30 minutes before serving."
+                },
+                {
+                    "meal": "Oatmeal with nuts and berries (no added sugar)",
+                    "calories": 437,
+                    "protein": 49,
+                    "carbs": 5,
+                    "fat": 6,
+                    "description": "Slow cook for 4 hours for deep flavor infusion."
+                },
+                {
+                    "meal": "Quinoa and black bean salad with lemon dressing",
+                    "calories": 487,
+                    "protein": 49,
+                    "carbs": 7,
+                    "fat": 23,
+                    "description": "Mix all ingredients and let it rest for 30 minutes before serving."
+                },
+                {
+                    "meal": "Egg white omelette with spinach and feta cheese",
+                    "calories": 545,
+                    "protein": 54,
+                    "carbs": 48,
+                    "fat": 21,
+                    "description": "Stir-fry in a pan over medium heat for 5 minutes."
+                }
+            ]
+        },
+        {
+            "tag": "Weight Management",
+            "patterns": [
+                "Suggest a weight management meal",
+                "I need a meal for weight management",
+                "Recommend a weight management diet",
+                "What should I eat for weight management goals?",
+                "Give me a weight management meal plan"
+            ],
+            "responses": [
+                {
+                    "meal": "Zucchini noodles with grilled shrimp",
+                    "calories": 489,
+                    "protein": 29,
+                    "carbs": 59,
+                    "fat": 21,
+                    "description": "Blend all ingredients together until smooth."
+                },
+                {
+                    "meal": "Grilled chicken Caesar salad (no croutons)",
+                    "calories": 593,
+                    "protein": 26,
+                    "carbs": 53,
+                    "fat": 20,
+                    "description": "Slow cook for 4 hours for deep flavor infusion."
+                },
+                {
+                    "meal": "Egg salad with avocado and mixed greens",
+                    "calories": 456,
+                    "protein": 53,
+                    "carbs": 65,
+                    "fat": 9,
+                    "description": "Mix all ingredients and let it rest for 30 minutes before serving."
+                },
+                {
+                    "meal": "Stuffed bell peppers with ground turkey and cheese",
+                    "calories": 561,
+                    "protein": 34,
+                    "carbs": 23,
+                    "fat": 23,
+                    "description": "Steam the ingredients for 10 minutes to retain nutrients."
+                }
+            ]
+        },
+        {
+            "tag": "Caloric Deficit",
+            "patterns": [
+                "Suggest a caloric deficit meal",
+                "I need a meal for caloric deficit",
+                "Recommend a caloric deficit diet",
+                "What should I eat for caloric deficit goals?",
+                "Give me a caloric deficit meal plan"
+            ],
+            "responses": [
+                {
+                    "meal": "Steamed fish with quinoa and mixed greens",
+                    "calories": 330,
+                    "protein": 33,
+                    "carbs": 40,
+                    "fat": 16,
+                    "description": "Boil in salted water for 15 minutes until tender."
+                },
+                {
+                    "meal": "Vegetable soup with lentils and herbs",
+                    "calories": 494,
+                    "protein": 10,
+                    "carbs": 54,
+                    "fat": 18,
+                    "description": "Grill the ingredients for 10 minutes until golden brown."
+                },
+                {
+                    "meal": "Turkey lettuce wraps with salsa",
+                    "calories": 337,
+                    "protein": 37,
+                    "carbs": 70,
+                    "fat": 22,
+                    "description": "Steam the ingredients for 10 minutes to retain nutrients."
+                },
+                {
+                    "meal": "Cucumber and tomato salad with grilled chicken",
+                    "calories": 640,
+                    "protein": 60,
+                    "carbs": 19,
+                    "fat": 30,
+                    "description": "Blend all ingredients together until smooth."
+                }
+            ]
+        },
+        {
+            "tag": "High Protein",
+            "patterns": [
+                "Suggest a high protein meal",
+                "I need a meal for high protein",
+                "Recommend a high protein diet",
+                "What should I eat for high protein goals?",
+                "Give me a high protein meal plan"
+            ],
+            "responses": [
+                {
+                    "meal": "Chicken breast with quinoa and steamed vegetables",
+                    "calories": 608,
+                    "protein": 13,
+                    "carbs": 43,
+                    "fat": 27,
+                    "description": "Bake at 180\u00b0C for 20 minutes until fully cooked."
+                },
+                {
+                    "meal": "Tuna salad with whole grain bread",
+                    "calories": 602,
+                    "protein": 15,
+                    "carbs": 48,
+                    "fat": 24,
+                    "description": "Mix all ingredients and let it rest for 30 minutes before serving."
+                },
+                {
+                    "meal": "Protein smoothie with banana, peanut butter, and milk",
+                    "calories": 331,
+                    "protein": 55,
+                    "carbs": 60,
+                    "fat": 27,
+                    "description": "Slow cook for 4 hours for deep flavor infusion."
+                },
+                {
+                    "meal": "Eggs with whole grain toast and smoked salmon",
+                    "calories": 359,
+                    "protein": 34,
+                    "carbs": 75,
+                    "fat": 15,
+                    "description": "Mix all ingredients and let it rest for 30 minutes before serving."
+                }
+            ]
+        },
+        {
+            "tag": "Low Carb, High Fat",
+            "patterns": [
+                "Suggest a low carb, high fat meal",
+                "I need a meal for low carb, high fat",
+                "Recommend a low carb, high fat diet",
+                "What should I eat for low carb, high fat goals?",
+                "Give me a low carb, high fat meal plan"
+            ],
+            "responses": [
+                {
+                    "meal": "Cheese and nuts with olives",
+                    "calories": 633,
+                    "protein": 50,
+                    "carbs": 32,
+                    "fat": 14,
+                    "description": "Boil in salted water for 15 minutes until tender."
+                },
+                {
+                    "meal": "Grilled salmon with creamy spinach",
+                    "calories": 428,
+                    "protein": 28,
+                    "carbs": 68,
+                    "fat": 28,
+                    "description": "Boil in salted water for 15 minutes until tender."
+                },
+                {
+                    "meal": "Avocado with cheese and almonds",
+                    "calories": 457,
+                    "protein": 42,
+                    "carbs": 9,
+                    "fat": 26,
+                    "description": "Grill the ingredients for 10 minutes until golden brown."
+                },
+                {
+                    "meal": "Zucchini noodles with Alfredo sauce and shrimp",
+                    "calories": 366,
+                    "protein": 41,
+                    "carbs": 29,
+                    "fat": 21,
+                    "description": "Blend all ingredients together until smooth."
+                }
+            ]
+        },
+        {
+            "tag": "Allergy-Friendly",
+            "patterns": [
+                "Suggest a allergy-friendly meal",
+                "I need a meal for allergy-friendly",
+                "Recommend a allergy-friendly diet",
+                "What should I eat for allergy-friendly goals?",
+                "Give me a allergy-friendly meal plan"
+            ],
+            "responses": [
+                {
+                    "meal": "Grilled chicken salad with avocado",
+                    "calories": 405,
+                    "protein": 24,
+                    "carbs": 51,
+                    "fat": 18,
+                    "description": "Grill the ingredients for 10 minutes until golden brown."
+                },
+                {
+                    "meal": "Quinoa and vegetable stir-fry",
+                    "calories": 590,
+                    "protein": 18,
+                    "carbs": 73,
+                    "fat": 11,
+                    "description": "Stir-fry in a pan over medium heat for 5 minutes."
+                },
+                {
+                    "meal": "Shrimp and broccoli stir-fry with coconut aminos",
+                    "calories": 600,
+                    "protein": 27,
+                    "carbs": 17,
+                    "fat": 13,
+                    "description": "Steam the ingredients for 10 minutes to retain nutrients."
+                },
+                {
+                    "meal": "Baked salmon with asparagus and roasted potatoes",
+                    "calories": 456,
+                    "protein": 20,
+                    "carbs": 54,
+                    "fat": 11,
+                    "description": "Stir-fry in a pan over medium heat for 5 minutes."
+                }
+            ]
+        },
+        {
+            "tag": "Energy Boosting",
+            "patterns": [
+                "Suggest a energy boosting meal",
+                "I need a meal for energy boosting",
+                "Recommend a energy boosting diet",
+                "What should I eat for energy boosting goals?",
+                "Give me a energy boosting meal plan"
+            ],
+            "responses": [
+                {
+                    "meal": "Brown rice with grilled salmon and steamed veggies",
+                    "calories": 630,
+                    "protein": 22,
+                    "carbs": 14,
+                    "fat": 24,
+                    "description": "Saut\u00e9 in olive oil over medium heat for 7 minutes."
+                },
+                {
+                    "meal": "Whole wheat pasta with lean beef and tomato sauce",
+                    "calories": 537,
+                    "protein": 16,
+                    "carbs": 78,
+                    "fat": 28,
+                    "description": "Blend all ingredients together until smooth."
+                },
+                {
+                    "meal": "Oatmeal with banana and almond butter",
+                    "calories": 459,
+                    "protein": 27,
+                    "carbs": 75,
+                    "fat": 9,
+                    "description": "Grill the ingredients for 10 minutes until golden brown."
+                },
+                {
+                    "meal": "Sweet potato and black bean burrito",
+                    "calories": 483,
+                    "protein": 57,
+                    "carbs": 64,
+                    "fat": 13,
+                    "description": "Grill the ingredients for 10 minutes until golden brown."
+                }
+            ]
+        },
+        {
+            "tag": "Heart Healthy",
+            "patterns": [
+                "Suggest a heart healthy meal",
+                "I need a meal for heart healthy",
+                "Recommend a heart healthy diet",
+                "What should I eat for heart healthy goals?",
+                "Give me a heart healthy meal plan"
+            ],
+            "responses": [
+                {
+                    "meal": "Hummus with whole grain pita and Greek salad",
+                    "calories": 463,
+                    "protein": 56,
+                    "carbs": 63,
+                    "fat": 23,
+                    "description": "Bake at 180\u00b0C for 20 minutes until fully cooked."
+                },
+                {
+                    "meal": "Grilled fish with olives, tomatoes, and feta cheese",
+                    "calories": 347,
+                    "protein": 25,
+                    "carbs": 55,
+                    "fat": 27,
+                    "description": "Stir-fry in a pan over medium heat for 5 minutes."
+                },
+                {
+                    "meal": "Lentil soup with olive oil and lemon",
+                    "calories": 438,
+                    "protein": 29,
+                    "carbs": 72,
+                    "fat": 10,
+                    "description": "Bake at 180\u00b0C for 20 minutes until fully cooked."
+                },
+                {
+                    "meal": "Tabbouleh salad with grilled chicken",
+                    "calories": 464,
+                    "protein": 42,
+                    "carbs": 42,
+                    "fat": 23,
+                    "description": "Bake at 180\u00b0C for 20 minutes until fully cooked."
+                }
+            ]
+        },
+        {
+            "tag": "Muscle Building",
+            "patterns": [
+                "Suggest a muscle building meal",
+                "I need a meal for muscle building",
+                "Recommend a muscle building diet",
+                "What should I eat for muscle building goals?",
+                "Give me a muscle building meal plan"
+            ],
+            "responses": [
+                {
+                    "meal": "Grilled chicken with quinoa and steamed broccoli",
+                    "calories": 470,
+                    "protein": 48,
+                    "carbs": 51,
+                    "fat": 16,
+                    "description": "Roast in an oven at 200\u00b0C for 25 minutes until crispy."
+                },
+                {
+                    "meal": "Scrambled eggs with turkey and spinach",
+                    "calories": 499,
+                    "protein": 35,
+                    "carbs": 55,
+                    "fat": 5,
+                    "description": "Steam the ingredients for 10 minutes to retain nutrients."
+                },
+                {
+                    "meal": "Salmon with sweet potatoes and asparagus",
+                    "calories": 356,
+                    "protein": 19,
+                    "carbs": 56,
+                    "fat": 16,
+                    "description": "Boil in salted water for 15 minutes until tender."
+                },
+                {
+                    "meal": "Beef steak with roasted vegetables and avocado",
+                    "calories": 657,
+                    "protein": 25,
+                    "carbs": 62,
+                    "fat": 18,
+                    "description": "Slow cook for 4 hours for deep flavor infusion."
+                }
+            ]
+        },
+        {
+            "tag": "Plant-Based",
+            "patterns": [
+                "Suggest a plant-based meal",
+                "I need a meal for plant-based",
+                "Recommend a plant-based diet",
+                "What should I eat for plant-based goals?",
+                "Give me a plant-based meal plan"
+            ],
+            "responses": [
+                {
+                    "meal": "Lentil and quinoa power bowl",
+                    "calories": 561,
+                    "protein": 13,
+                    "carbs": 58,
+                    "fat": 12,
+                    "description": "Bake at 180\u00b0C for 20 minutes until fully cooked."
+                },
+                {
+                    "meal": "Chickpea and spinach curry with brown rice",
+                    "calories": 517,
+                    "protein": 43,
+                    "carbs": 71,
+                    "fat": 11,
+                    "description": "Saut\u00e9 in olive oil over medium heat for 7 minutes."
+                },
+                {
+                    "meal": "Tofu and vegetable stir-fry with soy sauce",
+                    "calories": 510,
+                    "protein": 32,
+                    "carbs": 28,
+                    "fat": 17,
+                    "description": "Saut\u00e9 in olive oil over medium heat for 7 minutes."
+                },
+                {
+                    "meal": "Mushroom risotto with cashew cream",
+                    "calories": 604,
+                    "protein": 11,
+                    "carbs": 16,
+                    "fat": 10,
+                    "description": "Roast in an oven at 200\u00b0C for 25 minutes until crispy."
+                }
+            ]
+        },
+        {
+            "tag": "Low Sugar",
+            "patterns": [
+                "Suggest a low sugar meal",
+                "I need a meal for low sugar",
+                "Recommend a low sugar diet",
+                "What should I eat for low sugar goals?",
+                "Give me a low sugar meal plan"
+            ],
+            "responses": [
+                {
+                    "meal": "Grilled salmon with roasted Brussels sprouts",
+                    "calories": 437,
+                    "protein": 18,
+                    "carbs": 65,
+                    "fat": 23,
+                    "description": "Saut\u00e9 in olive oil over medium heat for 7 minutes."
+                },
+                {
+                    "meal": "Oatmeal with nuts and berries (no added sugar)",
+                    "calories": 584,
+                    "protein": 52,
+                    "carbs": 57,
+                    "fat": 12,
+                    "description": "Steam the ingredients for 10 minutes to retain nutrients."
+                },
+                {
+                    "meal": "Quinoa and black bean salad with lemon dressing",
+                    "calories": 502,
+                    "protein": 42,
+                    "carbs": 54,
+                    "fat": 14,
+                    "description": "Blend all ingredients together until smooth."
+                },
+                {
+                    "meal": "Egg white omelette with spinach and feta cheese",
+                    "calories": 416,
+                    "protein": 20,
+                    "carbs": 24,
+                    "fat": 9,
+                    "description": "Roast in an oven at 200\u00b0C for 25 minutes until crispy."
+                }
+            ]
+        },
+        {
+            "tag": "Weight Management",
+            "patterns": [
+                "Suggest a weight management meal",
+                "I need a meal for weight management",
+                "Recommend a weight management diet",
+                "What should I eat for weight management goals?",
+                "Give me a weight management meal plan"
+            ],
+            "responses": [
+                {
+                    "meal": "Zucchini noodles with grilled shrimp",
+                    "calories": 393,
+                    "protein": 19,
+                    "carbs": 20,
+                    "fat": 20,
+                    "description": "Boil in salted water for 15 minutes until tender."
+                },
+                {
+                    "meal": "Grilled chicken Caesar salad (no croutons)",
+                    "calories": 497,
+                    "protein": 46,
+                    "carbs": 60,
+                    "fat": 5,
+                    "description": "Slow cook for 4 hours for deep flavor infusion."
+                },
+                {
+                    "meal": "Egg salad with avocado and mixed greens",
+                    "calories": 524,
+                    "protein": 16,
+                    "carbs": 73,
+                    "fat": 12,
+                    "description": "Stir-fry in a pan over medium heat for 5 minutes."
+                },
+                {
+                    "meal": "Stuffed bell peppers with ground turkey and cheese",
+                    "calories": 437,
+                    "protein": 20,
+                    "carbs": 73,
+                    "fat": 22,
+                    "description": "Slow cook for 4 hours for deep flavor infusion."
+                }
+            ]
+        },
+        {
+            "tag": "Caloric Deficit",
+            "patterns": [
+                "Suggest a caloric deficit meal",
+                "I need a meal for caloric deficit",
+                "Recommend a caloric deficit diet",
+                "What should I eat for caloric deficit goals?",
+                "Give me a caloric deficit meal plan"
+            ],
+            "responses": [
+                {
+                    "meal": "Steamed fish with quinoa and mixed greens",
+                    "calories": 280,
+                    "protein": 52,
+                    "carbs": 23,
+                    "fat": 13,
+                    "description": "Blend all ingredients together until smooth."
+                },
+                {
+                    "meal": "Vegetable soup with lentils and herbs",
+                    "calories": 273,
+                    "protein": 44,
+                    "carbs": 16,
+                    "fat": 30,
+                    "description": "Mix all ingredients and let it rest for 30 minutes before serving."
+                },
+                {
+                    "meal": "Turkey lettuce wraps with salsa",
+                    "calories": 325,
+                    "protein": 45,
+                    "carbs": 62,
+                    "fat": 25,
+                    "description": "Grill the ingredients for 10 minutes until golden brown."
+                },
+                {
+                    "meal": "Cucumber and tomato salad with grilled chicken",
+                    "calories": 426,
+                    "protein": 54,
+                    "carbs": 46,
+                    "fat": 30,
+                    "description": "Stir-fry in a pan over medium heat for 5 minutes."
+                }
+            ]
+        },
+        {
+            "tag": "High Protein",
+            "patterns": [
+                "Suggest a high protein meal",
+                "I need a meal for high protein",
+                "Recommend a high protein diet",
+                "What should I eat for high protein goals?",
+                "Give me a high protein meal plan"
+            ],
+            "responses": [
+                {
+                    "meal": "Chicken breast with quinoa and steamed vegetables",
+                    "calories": 459,
+                    "protein": 37,
+                    "carbs": 17,
+                    "fat": 5,
+                    "description": "Boil in salted water for 15 minutes until tender."
+                },
+                {
+                    "meal": "Tuna salad with whole grain bread",
+                    "calories": 624,
+                    "protein": 40,
+                    "carbs": 67,
+                    "fat": 21,
+                    "description": "Grill the ingredients for 10 minutes until golden brown."
+                },
+                {
+                    "meal": "Protein smoothie with banana, peanut butter, and milk",
+                    "calories": 368,
+                    "protein": 11,
+                    "carbs": 14,
+                    "fat": 21,
+                    "description": "Mix all ingredients and let it rest for 30 minutes before serving."
+                },
+                {
+                    "meal": "Eggs with whole grain toast and smoked salmon",
+                    "calories": 323,
+                    "protein": 56,
+                    "carbs": 18,
+                    "fat": 29,
+                    "description": "Saut\u00e9 in olive oil over medium heat for 7 minutes."
+                }
+            ]
+        },
+        {
+            "tag": "Low Carb, High Fat",
+            "patterns": [
+                "Suggest a low carb, high fat meal",
+                "I need a meal for low carb, high fat",
+                "Recommend a low carb, high fat diet",
+                "What should I eat for low carb, high fat goals?",
+                "Give me a low carb, high fat meal plan"
+            ],
+            "responses": [
+                {
+                    "meal": "Cheese and nuts with olives",
+                    "calories": 369,
+                    "protein": 17,
+                    "carbs": 47,
+                    "fat": 5,
+                    "description": "Grill the ingredients for 10 minutes until golden brown."
+                },
+                {
+                    "meal": "Grilled salmon with creamy spinach",
+                    "calories": 624,
+                    "protein": 15,
+                    "carbs": 16,
+                    "fat": 11,
+                    "description": "Blend all ingredients together until smooth."
+                },
+                {
+                    "meal": "Avocado with cheese and almonds",
+                    "calories": 454,
+                    "protein": 46,
+                    "carbs": 39,
+                    "fat": 6,
+                    "description": "Saut\u00e9 in olive oil over medium heat for 7 minutes."
+                },
+                {
+                    "meal": "Zucchini noodles with Alfredo sauce and shrimp",
+                    "calories": 641,
+                    "protein": 46,
+                    "carbs": 37,
+                    "fat": 30,
+                    "description": "Saut\u00e9 in olive oil over medium heat for 7 minutes."
+                }
+            ]
+        },
+        {
+            "tag": "Allergy-Friendly",
+            "patterns": [
+                "Suggest a allergy-friendly meal",
+                "I need a meal for allergy-friendly",
+                "Recommend a allergy-friendly diet",
+                "What should I eat for allergy-friendly goals?",
+                "Give me a allergy-friendly meal plan"
+            ],
+            "responses": [
+                {
+                    "meal": "Grilled chicken salad with avocado",
+                    "calories": 681,
+                    "protein": 36,
+                    "carbs": 12,
+                    "fat": 29,
+                    "description": "Blend all ingredients together until smooth."
+                },
+                {
+                    "meal": "Quinoa and vegetable stir-fry",
+                    "calories": 315,
+                    "protein": 52,
+                    "carbs": 29,
+                    "fat": 20,
+                    "description": "Bake at 180\u00b0C for 20 minutes until fully cooked."
+                },
+                {
+                    "meal": "Shrimp and broccoli stir-fry with coconut aminos",
+                    "calories": 283,
+                    "protein": 52,
+                    "carbs": 48,
+                    "fat": 19,
+                    "description": "Grill the ingredients for 10 minutes until golden brown."
+                },
+                {
+                    "meal": "Baked salmon with asparagus and roasted potatoes",
+                    "calories": 368,
+                    "protein": 55,
+                    "carbs": 44,
+                    "fat": 5,
+                    "description": "Grill the ingredients for 10 minutes until golden brown."
+                }
+            ]
+        },
+        {
+            "tag": "Energy Boosting",
+            "patterns": [
+                "Suggest a energy boosting meal",
+                "I need a meal for energy boosting",
+                "Recommend a energy boosting diet",
+                "What should I eat for energy boosting goals?",
+                "Give me a energy boosting meal plan"
+            ],
+            "responses": [
+                {
+                    "meal": "Brown rice with grilled salmon and steamed veggies",
+                    "calories": 465,
+                    "protein": 49,
+                    "carbs": 60,
+                    "fat": 6,
+                    "description": "Slow cook for 4 hours for deep flavor infusion."
+                },
+                {
+                    "meal": "Whole wheat pasta with lean beef and tomato sauce",
+                    "calories": 406,
+                    "protein": 13,
+                    "carbs": 47,
+                    "fat": 18,
+                    "description": "Blend all ingredients together until smooth."
+                },
+                {
+                    "meal": "Oatmeal with banana and almond butter",
+                    "calories": 489,
+                    "protein": 13,
+                    "carbs": 66,
+                    "fat": 22,
+                    "description": "Roast in an oven at 200\u00b0C for 25 minutes until crispy."
+                },
+                {
+                    "meal": "Sweet potato and black bean burrito",
+                    "calories": 605,
+                    "protein": 18,
+                    "carbs": 60,
+                    "fat": 16,
+                    "description": "Bake at 180\u00b0C for 20 minutes until fully cooked."
+                }
+            ]
+        },
+        {
+            "tag": "Heart Healthy",
+            "patterns": [
+                "Suggest a heart healthy meal",
+                "I need a meal for heart healthy",
+                "Recommend a heart healthy diet",
+                "What should I eat for heart healthy goals?",
+                "Give me a heart healthy meal plan"
+            ],
+            "responses": [
+                {
+                    "meal": "Hummus with whole grain pita and Greek salad",
+                    "calories": 311,
+                    "protein": 29,
+                    "carbs": 36,
+                    "fat": 21,
+                    "description": "Blend all ingredients together until smooth."
+                },
+                {
+                    "meal": "Grilled fish with olives, tomatoes, and feta cheese",
+                    "calories": 450,
+                    "protein": 53,
+                    "carbs": 28,
+                    "fat": 30,
+                    "description": "Steam the ingredients for 10 minutes to retain nutrients."
+                },
+                {
+                    "meal": "Lentil soup with olive oil and lemon",
+                    "calories": 579,
+                    "protein": 16,
+                    "carbs": 22,
+                    "fat": 19,
+                    "description": "Mix all ingredients and let it rest for 30 minutes before serving."
+                },
+                {
+                    "meal": "Tabbouleh salad with grilled chicken",
+                    "calories": 307,
+                    "protein": 36,
+                    "carbs": 16,
+                    "fat": 22,
+                    "description": "Roast in an oven at 200\u00b0C for 25 minutes until crispy."
+                }
+            ]
+        },
+        {
+            "tag": "Muscle Building",
+            "patterns": [
+                "Suggest a muscle building meal",
+                "I need a meal for muscle building",
+                "Recommend a muscle building diet",
+                "What should I eat for muscle building goals?",
+                "Give me a muscle building meal plan"
+            ],
+            "responses": [
+                {
+                    "meal": "Grilled chicken with quinoa and steamed broccoli",
+                    "calories": 252,
+                    "protein": 14,
+                    "carbs": 54,
+                    "fat": 22,
+                    "description": "Stir-fry in a pan over medium heat for 5 minutes."
+                },
+                {
+                    "meal": "Scrambled eggs with turkey and spinach",
+                    "calories": 640,
+                    "protein": 16,
+                    "carbs": 57,
+                    "fat": 7,
+                    "description": "Bake at 180\u00b0C for 20 minutes until fully cooked."
+                },
+                {
+                    "meal": "Salmon with sweet potatoes and asparagus",
+                    "calories": 345,
+                    "protein": 10,
+                    "carbs": 61,
+                    "fat": 17,
+                    "description": "Bake at 180\u00b0C for 20 minutes until fully cooked."
+                },
+                {
+                    "meal": "Beef steak with roasted vegetables and avocado",
+                    "calories": 251,
+                    "protein": 14,
+                    "carbs": 40,
+                    "fat": 6,
+                    "description": "Roast in an oven at 200\u00b0C for 25 minutes until crispy."
+                }
+            ]
+        },
+        {
+            "tag": "Plant-Based",
+            "patterns": [
+                "Suggest a plant-based meal",
+                "I need a meal for plant-based",
+                "Recommend a plant-based diet",
+                "What should I eat for plant-based goals?",
+                "Give me a plant-based meal plan"
+            ],
+            "responses": [
+                {
+                    "meal": "Lentil and quinoa power bowl",
+                    "calories": 609,
+                    "protein": 18,
+                    "carbs": 29,
+                    "fat": 26,
+                    "description": "Slow cook for 4 hours for deep flavor infusion."
+                },
+                {
+                    "meal": "Chickpea and spinach curry with brown rice",
+                    "calories": 543,
+                    "protein": 15,
+                    "carbs": 63,
+                    "fat": 17,
+                    "description": "Roast in an oven at 200\u00b0C for 25 minutes until crispy."
+                },
+                {
+                    "meal": "Tofu and vegetable stir-fry with soy sauce",
+                    "calories": 491,
+                    "protein": 56,
+                    "carbs": 80,
+                    "fat": 17,
+                    "description": "Mix all ingredients and let it rest for 30 minutes before serving."
+                },
+                {
+                    "meal": "Mushroom risotto with cashew cream",
+                    "calories": 370,
+                    "protein": 60,
+                    "carbs": 24,
+                    "fat": 28,
+                    "description": "Mix all ingredients and let it rest for 30 minutes before serving."
+                }
+            ]
+        },
+        {
+            "tag": "Low Sugar",
+            "patterns": [
+                "Suggest a low sugar meal",
+                "I need a meal for low sugar",
+                "Recommend a low sugar diet",
+                "What should I eat for low sugar goals?",
+                "Give me a low sugar meal plan"
+            ],
+            "responses": [
+                {
+                    "meal": "Grilled salmon with roasted Brussels sprouts",
+                    "calories": 295,
+                    "protein": 34,
+                    "carbs": 5,
+                    "fat": 13,
+                    "description": "Mix all ingredients and let it rest for 30 minutes before serving."
+                },
+                {
+                    "meal": "Oatmeal with nuts and berries (no added sugar)",
+                    "calories": 667,
+                    "protein": 32,
+                    "carbs": 14,
+                    "fat": 29,
+                    "description": "Slow cook for 4 hours for deep flavor infusion."
+                },
+                {
+                    "meal": "Quinoa and black bean salad with lemon dressing",
+                    "calories": 626,
+                    "protein": 18,
+                    "carbs": 36,
+                    "fat": 19,
+                    "description": "Steam the ingredients for 10 minutes to retain nutrients."
+                },
+                {
+                    "meal": "Egg white omelette with spinach and feta cheese",
+                    "calories": 609,
+                    "protein": 39,
+                    "carbs": 5,
+                    "fat": 30,
+                    "description": "Mix all ingredients and let it rest for 30 minutes before serving."
+                }
+            ]
+        },
+        {
+            "tag": "Weight Management",
+            "patterns": [
+                "Suggest a weight management meal",
+                "I need a meal for weight management",
+                "Recommend a weight management diet",
+                "What should I eat for weight management goals?",
+                "Give me a weight management meal plan"
+            ],
+            "responses": [
+                {
+                    "meal": "Zucchini noodles with grilled shrimp",
+                    "calories": 602,
+                    "protein": 53,
+                    "carbs": 61,
+                    "fat": 11,
+                    "description": "Stir-fry in a pan over medium heat for 5 minutes."
+                },
+                {
+                    "meal": "Grilled chicken Caesar salad (no croutons)",
+                    "calories": 371,
+                    "protein": 49,
+                    "carbs": 78,
+                    "fat": 12,
+                    "description": "Roast in an oven at 200\u00b0C for 25 minutes until crispy."
+                },
+                {
+                    "meal": "Egg salad with avocado and mixed greens",
+                    "calories": 392,
+                    "protein": 47,
+                    "carbs": 24,
+                    "fat": 19,
+                    "description": "Boil in salted water for 15 minutes until tender."
+                },
+                {
+                    "meal": "Stuffed bell peppers with ground turkey and cheese",
+                    "calories": 669,
+                    "protein": 54,
+                    "carbs": 9,
+                    "fat": 16,
+                    "description": "Steam the ingredients for 10 minutes to retain nutrients."
+                }
+            ]
+        },
+        {
+            "tag": "Caloric Deficit",
+            "patterns": [
+                "Suggest a caloric deficit meal",
+                "I need a meal for caloric deficit",
+                "Recommend a caloric deficit diet",
+                "What should I eat for caloric deficit goals?",
+                "Give me a caloric deficit meal plan"
+            ],
+            "responses": [
+                {
+                    "meal": "Steamed fish with quinoa and mixed greens",
+                    "calories": 560,
+                    "protein": 15,
+                    "carbs": 76,
+                    "fat": 18,
+                    "description": "Bake at 180\u00b0C for 20 minutes until fully cooked."
+                },
+                {
+                    "meal": "Vegetable soup with lentils and herbs",
+                    "calories": 566,
+                    "protein": 31,
+                    "carbs": 35,
+                    "fat": 10,
+                    "description": "Stir-fry in a pan over medium heat for 5 minutes."
+                },
+                {
+                    "meal": "Turkey lettuce wraps with salsa",
+                    "calories": 507,
+                    "protein": 20,
+                    "carbs": 5,
+                    "fat": 15,
+                    "description": "Grill the ingredients for 10 minutes until golden brown."
+                },
+                {
+                    "meal": "Cucumber and tomato salad with grilled chicken",
+                    "calories": 308,
+                    "protein": 48,
+                    "carbs": 50,
+                    "fat": 18,
+                    "description": "Mix all ingredients and let it rest for 30 minutes before serving."
+                }
+            ]
+        },
+        {
+            "tag": "High Protein",
+            "patterns": [
+                "Suggest a high protein meal",
+                "I need a meal for high protein",
+                "Recommend a high protein diet",
+                "What should I eat for high protein goals?",
+                "Give me a high protein meal plan"
+            ],
+            "responses": [
+                {
+                    "meal": "Chicken breast with quinoa and steamed vegetables",
+                    "calories": 389,
+                    "protein": 50,
+                    "carbs": 54,
+                    "fat": 19,
+                    "description": "Blend all ingredients together until smooth."
+                },
+                {
+                    "meal": "Tuna salad with whole grain bread",
+                    "calories": 676,
+                    "protein": 27,
+                    "carbs": 41,
+                    "fat": 14,
+                    "description": "Steam the ingredients for 10 minutes to retain nutrients."
+                },
+                {
+                    "meal": "Protein smoothie with banana, peanut butter, and milk",
+                    "calories": 494,
+                    "protein": 30,
+                    "carbs": 38,
+                    "fat": 21,
+                    "description": "Bake at 180\u00b0C for 20 minutes until fully cooked."
+                },
+                {
+                    "meal": "Eggs with whole grain toast and smoked salmon",
+                    "calories": 495,
+                    "protein": 46,
+                    "carbs": 18,
+                    "fat": 9,
+                    "description": "Saut\u00e9 in olive oil over medium heat for 7 minutes."
+                }
+            ]
+        },
+        {
+            "tag": "Low Carb, High Fat",
+            "patterns": [
+                "Suggest a low carb, high fat meal",
+                "I need a meal for low carb, high fat",
+                "Recommend a low carb, high fat diet",
+                "What should I eat for low carb, high fat goals?",
+                "Give me a low carb, high fat meal plan"
+            ],
+            "responses": [
+                {
+                    "meal": "Cheese and nuts with olives",
+                    "calories": 475,
+                    "protein": 15,
+                    "carbs": 7,
+                    "fat": 7,
+                    "description": "Saut\u00e9 in olive oil over medium heat for 7 minutes."
+                },
+                {
+                    "meal": "Grilled salmon with creamy spinach",
+                    "calories": 276,
+                    "protein": 49,
+                    "carbs": 72,
+                    "fat": 20,
+                    "description": "Saut\u00e9 in olive oil over medium heat for 7 minutes."
+                },
+                {
+                    "meal": "Avocado with cheese and almonds",
+                    "calories": 495,
+                    "protein": 28,
+                    "carbs": 75,
+                    "fat": 13,
+                    "description": "Bake at 180\u00b0C for 20 minutes until fully cooked."
+                },
+                {
+                    "meal": "Zucchini noodles with Alfredo sauce and shrimp",
+                    "calories": 363,
+                    "protein": 48,
+                    "carbs": 29,
+                    "fat": 12,
+                    "description": "Boil in salted water for 15 minutes until tender."
+                }
+            ]
+        },
+        {
+            "tag": "Allergy-Friendly",
+            "patterns": [
+                "Suggest a allergy-friendly meal",
+                "I need a meal for allergy-friendly",
+                "Recommend a allergy-friendly diet",
+                "What should I eat for allergy-friendly goals?",
+                "Give me a allergy-friendly meal plan"
+            ],
+            "responses": [
+                {
+                    "meal": "Grilled chicken salad with avocado",
+                    "calories": 626,
+                    "protein": 48,
+                    "carbs": 8,
+                    "fat": 21,
+                    "description": "Grill the ingredients for 10 minutes until golden brown."
+                },
+                {
+                    "meal": "Quinoa and vegetable stir-fry",
+                    "calories": 430,
+                    "protein": 27,
+                    "carbs": 65,
+                    "fat": 9,
+                    "description": "Bake at 180\u00b0C for 20 minutes until fully cooked."
+                },
+                {
+                    "meal": "Shrimp and broccoli stir-fry with coconut aminos",
+                    "calories": 261,
+                    "protein": 56,
+                    "carbs": 66,
+                    "fat": 27,
+                    "description": "Grill the ingredients for 10 minutes until golden brown."
+                },
+                {
+                    "meal": "Baked salmon with asparagus and roasted potatoes",
+                    "calories": 283,
+                    "protein": 33,
+                    "carbs": 40,
+                    "fat": 15,
+                    "description": "Roast in an oven at 200\u00b0C for 25 minutes until crispy."
+                }
+            ]
+        },
+        {
+            "tag": "Energy Boosting",
+            "patterns": [
+                "Suggest a energy boosting meal",
+                "I need a meal for energy boosting",
+                "Recommend a energy boosting diet",
+                "What should I eat for energy boosting goals?",
+                "Give me a energy boosting meal plan"
+            ],
+            "responses": [
+                {
+                    "meal": "Brown rice with grilled salmon and steamed veggies",
+                    "calories": 309,
+                    "protein": 23,
+                    "carbs": 9,
+                    "fat": 10,
+                    "description": "Slow cook for 4 hours for deep flavor infusion."
+                },
+                {
+                    "meal": "Whole wheat pasta with lean beef and tomato sauce",
+                    "calories": 560,
+                    "protein": 54,
+                    "carbs": 9,
+                    "fat": 5,
+                    "description": "Steam the ingredients for 10 minutes to retain nutrients."
+                },
+                {
+                    "meal": "Oatmeal with banana and almond butter",
+                    "calories": 396,
+                    "protein": 56,
+                    "carbs": 62,
+                    "fat": 6,
+                    "description": "Roast in an oven at 200\u00b0C for 25 minutes until crispy."
+                },
+                {
+                    "meal": "Sweet potato and black bean burrito",
+                    "calories": 575,
+                    "protein": 23,
+                    "carbs": 19,
+                    "fat": 9,
+                    "description": "Mix all ingredients and let it rest for 30 minutes before serving."
+                }
+            ]
+        },
+        {
+            "tag": "Heart Healthy",
+            "patterns": [
+                "Suggest a heart healthy meal",
+                "I need a meal for heart healthy",
+                "Recommend a heart healthy diet",
+                "What should I eat for heart healthy goals?",
+                "Give me a heart healthy meal plan"
+            ],
+            "responses": [
+                {
+                    "meal": "Hummus with whole grain pita and Greek salad",
+                    "calories": 532,
+                    "protein": 57,
+                    "carbs": 36,
+                    "fat": 9,
+                    "description": "Saut\u00e9 in olive oil over medium heat for 7 minutes."
+                },
+                {
+                    "meal": "Grilled fish with olives, tomatoes, and feta cheese",
+                    "calories": 425,
+                    "protein": 22,
+                    "carbs": 7,
+                    "fat": 27,
+                    "description": "Mix all ingredients and let it rest for 30 minutes before serving."
+                },
+                {
+                    "meal": "Lentil soup with olive oil and lemon",
+                    "calories": 435,
+                    "protein": 47,
+                    "carbs": 74,
+                    "fat": 20,
+                    "description": "Blend all ingredients together until smooth."
+                },
+                {
+                    "meal": "Tabbouleh salad with grilled chicken",
+                    "calories": 541,
+                    "protein": 60,
+                    "carbs": 75,
+                    "fat": 10,
+                    "description": "Blend all ingredients together until smooth."
+                }
+            ]
+        },
+        {
+            "tag": "Muscle Building",
+            "patterns": [
+                "Suggest a muscle building meal",
+                "I need a meal for muscle building",
+                "Recommend a muscle building diet",
+                "What should I eat for muscle building goals?",
+                "Give me a muscle building meal plan"
+            ],
+            "responses": [
+                {
+                    "meal": "Grilled chicken with quinoa and steamed broccoli",
+                    "calories": 475,
+                    "protein": 60,
+                    "carbs": 52,
+                    "fat": 13,
+                    "description": "Slow cook for 4 hours for deep flavor infusion."
+                },
+                {
+                    "meal": "Scrambled eggs with turkey and spinach",
+                    "calories": 580,
+                    "protein": 23,
+                    "carbs": 80,
+                    "fat": 18,
+                    "description": "Boil in salted water for 15 minutes until tender."
+                },
+                {
+                    "meal": "Salmon with sweet potatoes and asparagus",
+                    "calories": 547,
+                    "protein": 10,
+                    "carbs": 75,
+                    "fat": 11,
+                    "description": "Saut\u00e9 in olive oil over medium heat for 7 minutes."
+                },
+                {
+                    "meal": "Beef steak with roasted vegetables and avocado",
+                    "calories": 363,
+                    "protein": 12,
+                    "carbs": 16,
+                    "fat": 11,
+                    "description": "Blend all ingredients together until smooth."
+                }
+            ]
+        },
+        {
+            "tag": "Plant-Based",
+            "patterns": [
+                "Suggest a plant-based meal",
+                "I need a meal for plant-based",
+                "Recommend a plant-based diet",
+                "What should I eat for plant-based goals?",
+                "Give me a plant-based meal plan"
+            ],
+            "responses": [
+                {
+                    "meal": "Lentil and quinoa power bowl",
+                    "calories": 504,
+                    "protein": 52,
+                    "carbs": 12,
+                    "fat": 15,
+                    "description": "Grill the ingredients for 10 minutes until golden brown."
+                },
+                {
+                    "meal": "Chickpea and spinach curry with brown rice",
+                    "calories": 372,
+                    "protein": 41,
+                    "carbs": 74,
+                    "fat": 21,
+                    "description": "Grill the ingredients for 10 minutes until golden brown."
+                },
+                {
+                    "meal": "Tofu and vegetable stir-fry with soy sauce",
+                    "calories": 279,
+                    "protein": 57,
+                    "carbs": 74,
+                    "fat": 9,
+                    "description": "Saut\u00e9 in olive oil over medium heat for 7 minutes."
+                },
+                {
+                    "meal": "Mushroom risotto with cashew cream",
+                    "calories": 429,
+                    "protein": 52,
+                    "carbs": 43,
+                    "fat": 21,
+                    "description": "Slow cook for 4 hours for deep flavor infusion."
+                }
+            ]
+        },
+        {
+            "tag": "Low Sugar",
+            "patterns": [
+                "Suggest a low sugar meal",
+                "I need a meal for low sugar",
+                "Recommend a low sugar diet",
+                "What should I eat for low sugar goals?",
+                "Give me a low sugar meal plan"
+            ],
+            "responses": [
+                {
+                    "meal": "Grilled salmon with roasted Brussels sprouts",
+                    "calories": 369,
+                    "protein": 51,
+                    "carbs": 8,
+                    "fat": 12,
+                    "description": "Blend all ingredients together until smooth."
+                },
+                {
+                    "meal": "Oatmeal with nuts and berries (no added sugar)",
+                    "calories": 340,
+                    "protein": 54,
+                    "carbs": 23,
+                    "fat": 6,
+                    "description": "Steam the ingredients for 10 minutes to retain nutrients."
+                },
+                {
+                    "meal": "Quinoa and black bean salad with lemon dressing",
+                    "calories": 636,
+                    "protein": 28,
+                    "carbs": 25,
+                    "fat": 15,
+                    "description": "Saut\u00e9 in olive oil over medium heat for 7 minutes."
+                },
+                {
+                    "meal": "Egg white omelette with spinach and feta cheese",
+                    "calories": 253,
+                    "protein": 52,
+                    "carbs": 12,
+                    "fat": 21,
+                    "description": "Steam the ingredients for 10 minutes to retain nutrients."
+                }
+            ]
+        },
+        {
+            "tag": "Weight Management",
+            "patterns": [
+                "Suggest a weight management meal",
+                "I need a meal for weight management",
+                "Recommend a weight management diet",
+                "What should I eat for weight management goals?",
+                "Give me a weight management meal plan"
+            ],
+            "responses": [
+                {
+                    "meal": "Zucchini noodles with grilled shrimp",
+                    "calories": 510,
+                    "protein": 55,
+                    "carbs": 63,
+                    "fat": 12,
+                    "description": "Mix all ingredients and let it rest for 30 minutes before serving."
+                },
+                {
+                    "meal": "Grilled chicken Caesar salad (no croutons)",
+                    "calories": 287,
+                    "protein": 10,
+                    "carbs": 39,
+                    "fat": 24,
+                    "description": "Grill the ingredients for 10 minutes until golden brown."
+                },
+                {
+                    "meal": "Egg salad with avocado and mixed greens",
+                    "calories": 695,
+                    "protein": 13,
+                    "carbs": 49,
+                    "fat": 19,
+                    "description": "Grill the ingredients for 10 minutes until golden brown."
+                },
+                {
+                    "meal": "Stuffed bell peppers with ground turkey and cheese",
+                    "calories": 506,
+                    "protein": 54,
+                    "carbs": 30,
+                    "fat": 8,
+                    "description": "Bake at 180\u00b0C for 20 minutes until fully cooked."
+                }
+            ]
+        },
+        {
+            "tag": "Caloric Deficit",
+            "patterns": [
+                "Suggest a caloric deficit meal",
+                "I need a meal for caloric deficit",
+                "Recommend a caloric deficit diet",
+                "What should I eat for caloric deficit goals?",
+                "Give me a caloric deficit meal plan"
+            ],
+            "responses": [
+                {
+                    "meal": "Steamed fish with quinoa and mixed greens",
+                    "calories": 283,
+                    "protein": 16,
+                    "carbs": 70,
+                    "fat": 26,
+                    "description": "Bake at 180\u00b0C for 20 minutes until fully cooked."
+                },
+                {
+                    "meal": "Vegetable soup with lentils and herbs",
+                    "calories": 331,
+                    "protein": 34,
+                    "carbs": 37,
+                    "fat": 26,
+                    "description": "Grill the ingredients for 10 minutes until golden brown."
+                },
+                {
+                    "meal": "Turkey lettuce wraps with salsa",
+                    "calories": 503,
+                    "protein": 16,
+                    "carbs": 29,
+                    "fat": 25,
+                    "description": "Mix all ingredients and let it rest for 30 minutes before serving."
+                },
+                {
+                    "meal": "Cucumber and tomato salad with grilled chicken",
+                    "calories": 433,
+                    "protein": 43,
+                    "carbs": 9,
+                    "fat": 20,
+                    "description": "Roast in an oven at 200\u00b0C for 25 minutes until crispy."
+                }
+            ]
+        },
+        {
+            "tag": "High Protein",
+            "patterns": [
+                "Suggest a high protein meal",
+                "I need a meal for high protein",
+                "Recommend a high protein diet",
+                "What should I eat for high protein goals?",
+                "Give me a high protein meal plan"
+            ],
+            "responses": [
+                {
+                    "meal": "Chicken breast with quinoa and steamed vegetables",
+                    "calories": 687,
+                    "protein": 21,
+                    "carbs": 11,
+                    "fat": 29,
+                    "description": "Grill the ingredients for 10 minutes until golden brown."
+                },
+                {
+                    "meal": "Tuna salad with whole grain bread",
+                    "calories": 471,
+                    "protein": 36,
+                    "carbs": 63,
+                    "fat": 27,
+                    "description": "Grill the ingredients for 10 minutes until golden brown."
+                },
+                {
+                    "meal": "Protein smoothie with banana, peanut butter, and milk",
+                    "calories": 250,
+                    "protein": 30,
+                    "carbs": 24,
+                    "fat": 28,
+                    "description": "Roast in an oven at 200\u00b0C for 25 minutes until crispy."
+                },
+                {
+                    "meal": "Eggs with whole grain toast and smoked salmon",
+                    "calories": 256,
+                    "protein": 17,
+                    "carbs": 66,
+                    "fat": 9,
+                    "description": "Grill the ingredients for 10 minutes until golden brown."
+                }
+            ]
+        },
+        {
+            "tag": "Low Carb, High Fat",
+            "patterns": [
+                "Suggest a low carb, high fat meal",
+                "I need a meal for low carb, high fat",
+                "Recommend a low carb, high fat diet",
+                "What should I eat for low carb, high fat goals?",
+                "Give me a low carb, high fat meal plan"
+            ],
+            "responses": [
+                {
+                    "meal": "Cheese and nuts with olives",
+                    "calories": 587,
+                    "protein": 20,
+                    "carbs": 69,
+                    "fat": 23,
+                    "description": "Blend all ingredients together until smooth."
+                },
+                {
+                    "meal": "Grilled salmon with creamy spinach",
+                    "calories": 311,
+                    "protein": 29,
+                    "carbs": 57,
+                    "fat": 7,
+                    "description": "Blend all ingredients together until smooth."
+                },
+                {
+                    "meal": "Avocado with cheese and almonds",
+                    "calories": 700,
+                    "protein": 56,
+                    "carbs": 80,
+                    "fat": 12,
+                    "description": "Bake at 180\u00b0C for 20 minutes until fully cooked."
+                },
+                {
+                    "meal": "Zucchini noodles with Alfredo sauce and shrimp",
+                    "calories": 468,
+                    "protein": 10,
+                    "carbs": 28,
+                    "fat": 9,
+                    "description": "Saut\u00e9 in olive oil over medium heat for 7 minutes."
+                }
+            ]
+        },
+        {
+            "tag": "Allergy-Friendly",
+            "patterns": [
+                "Suggest a allergy-friendly meal",
+                "I need a meal for allergy-friendly",
+                "Recommend a allergy-friendly diet",
+                "What should I eat for allergy-friendly goals?",
+                "Give me a allergy-friendly meal plan"
+            ],
+            "responses": [
+                {
+                    "meal": "Grilled chicken salad with avocado",
+                    "calories": 377,
+                    "protein": 26,
+                    "carbs": 75,
+                    "fat": 8,
+                    "description": "Boil in salted water for 15 minutes until tender."
+                },
+                {
+                    "meal": "Quinoa and vegetable stir-fry",
+                    "calories": 402,
+                    "protein": 42,
+                    "carbs": 37,
+                    "fat": 16,
+                    "description": "Stir-fry in a pan over medium heat for 5 minutes."
+                },
+                {
+                    "meal": "Shrimp and broccoli stir-fry with coconut aminos",
+                    "calories": 583,
+                    "protein": 48,
+                    "carbs": 63,
+                    "fat": 19,
+                    "description": "Slow cook for 4 hours for deep flavor infusion."
+                },
+                {
+                    "meal": "Baked salmon with asparagus and roasted potatoes",
+                    "calories": 441,
+                    "protein": 42,
+                    "carbs": 72,
+                    "fat": 25,
+                    "description": "Saut\u00e9 in olive oil over medium heat for 7 minutes."
+                }
+            ]
+        },
+        {
+            "tag": "Energy Boosting",
+            "patterns": [
+                "Suggest a energy boosting meal",
+                "I need a meal for energy boosting",
+                "Recommend a energy boosting diet",
+                "What should I eat for energy boosting goals?",
+                "Give me a energy boosting meal plan"
+            ],
+            "responses": [
+                {
+                    "meal": "Brown rice with grilled salmon and steamed veggies",
+                    "calories": 522,
+                    "protein": 12,
+                    "carbs": 41,
+                    "fat": 16,
+                    "description": "Grill the ingredients for 10 minutes until golden brown."
+                },
+                {
+                    "meal": "Whole wheat pasta with lean beef and tomato sauce",
+                    "calories": 695,
+                    "protein": 58,
+                    "carbs": 45,
+                    "fat": 6,
+                    "description": "Grill the ingredients for 10 minutes until golden brown."
+                },
+                {
+                    "meal": "Oatmeal with banana and almond butter",
+                    "calories": 312,
+                    "protein": 10,
+                    "carbs": 32,
+                    "fat": 26,
+                    "description": "Bake at 180\u00b0C for 20 minutes until fully cooked."
+                },
+                {
+                    "meal": "Sweet potato and black bean burrito",
+                    "calories": 253,
+                    "protein": 58,
+                    "carbs": 70,
+                    "fat": 25,
+                    "description": "Steam the ingredients for 10 minutes to retain nutrients."
+                }
+            ]
+        },
+        {
+            "tag": "Heart Healthy",
+            "patterns": [
+                "Suggest a heart healthy meal",
+                "I need a meal for heart healthy",
+                "Recommend a heart healthy diet",
+                "What should I eat for heart healthy goals?",
+                "Give me a heart healthy meal plan"
+            ],
+            "responses": [
+                {
+                    "meal": "Hummus with whole grain pita and Greek salad",
+                    "calories": 524,
+                    "protein": 35,
+                    "carbs": 41,
+                    "fat": 22,
+                    "description": "Saut\u00e9 in olive oil over medium heat for 7 minutes."
+                },
+                {
+                    "meal": "Grilled fish with olives, tomatoes, and feta cheese",
+                    "calories": 460,
+                    "protein": 48,
+                    "carbs": 75,
+                    "fat": 18,
+                    "description": "Grill the ingredients for 10 minutes until golden brown."
+                },
+                {
+                    "meal": "Lentil soup with olive oil and lemon",
+                    "calories": 422,
+                    "protein": 57,
+                    "carbs": 31,
+                    "fat": 30,
+                    "description": "Boil in salted water for 15 minutes until tender."
+                },
+                {
+                    "meal": "Tabbouleh salad with grilled chicken",
+                    "calories": 587,
+                    "protein": 29,
+                    "carbs": 75,
+                    "fat": 21,
+                    "description": "Bake at 180\u00b0C for 20 minutes until fully cooked."
+                }
+            ]
+        },
+        {
+            "tag": "Muscle Building",
+            "patterns": [
+                "Suggest a muscle building meal",
+                "I need a meal for muscle building",
+                "Recommend a muscle building diet",
+                "What should I eat for muscle building goals?",
+                "Give me a muscle building meal plan"
+            ],
+            "responses": [
+                {
+                    "meal": "Grilled chicken with quinoa and steamed broccoli",
+                    "calories": 401,
+                    "protein": 56,
+                    "carbs": 46,
+                    "fat": 8,
+                    "description": "Saut\u00e9 in olive oil over medium heat for 7 minutes."
+                },
+                {
+                    "meal": "Scrambled eggs with turkey and spinach",
+                    "calories": 685,
+                    "protein": 42,
+                    "carbs": 58,
+                    "fat": 13,
+                    "description": "Boil in salted water for 15 minutes until tender."
+                },
+                {
+                    "meal": "Salmon with sweet potatoes and asparagus",
+                    "calories": 602,
+                    "protein": 55,
+                    "carbs": 41,
+                    "fat": 29,
+                    "description": "Boil in salted water for 15 minutes until tender."
+                },
+                {
+                    "meal": "Beef steak with roasted vegetables and avocado",
+                    "calories": 261,
+                    "protein": 42,
+                    "carbs": 16,
+                    "fat": 8,
+                    "description": "Roast in an oven at 200\u00b0C for 25 minutes until crispy."
+                }
+            ]
+        },
+        {
+            "tag": "Plant-Based",
+            "patterns": [
+                "Suggest a plant-based meal",
+                "I need a meal for plant-based",
+                "Recommend a plant-based diet",
+                "What should I eat for plant-based goals?",
+                "Give me a plant-based meal plan"
+            ],
+            "responses": [
+                {
+                    "meal": "Lentil and quinoa power bowl",
+                    "calories": 638,
+                    "protein": 57,
+                    "carbs": 7,
+                    "fat": 11,
+                    "description": "Boil in salted water for 15 minutes until tender."
+                },
+                {
+                    "meal": "Chickpea and spinach curry with brown rice",
+                    "calories": 455,
+                    "protein": 41,
+                    "carbs": 5,
+                    "fat": 24,
+                    "description": "Bake at 180\u00b0C for 20 minutes until fully cooked."
+                },
+                {
+                    "meal": "Tofu and vegetable stir-fry with soy sauce",
+                    "calories": 419,
+                    "protein": 31,
+                    "carbs": 18,
+                    "fat": 6,
+                    "description": "Saut\u00e9 in olive oil over medium heat for 7 minutes."
+                },
+                {
+                    "meal": "Mushroom risotto with cashew cream",
+                    "calories": 587,
+                    "protein": 27,
+                    "carbs": 5,
+                    "fat": 7,
+                    "description": "Bake at 180\u00b0C for 20 minutes until fully cooked."
+                }
+            ]
+        },
+        {
+            "tag": "Low Sugar",
+            "patterns": [
+                "Suggest a low sugar meal",
+                "I need a meal for low sugar",
+                "Recommend a low sugar diet",
+                "What should I eat for low sugar goals?",
+                "Give me a low sugar meal plan"
+            ],
+            "responses": [
+                {
+                    "meal": "Grilled salmon with roasted Brussels sprouts",
+                    "calories": 700,
+                    "protein": 40,
+                    "carbs": 31,
+                    "fat": 17,
+                    "description": "Boil in salted water for 15 minutes until tender."
+                },
+                {
+                    "meal": "Oatmeal with nuts and berries (no added sugar)",
+                    "calories": 354,
+                    "protein": 45,
+                    "carbs": 21,
+                    "fat": 6,
+                    "description": "Saut\u00e9 in olive oil over medium heat for 7 minutes."
+                },
+                {
+                    "meal": "Quinoa and black bean salad with lemon dressing",
+                    "calories": 611,
+                    "protein": 11,
+                    "carbs": 77,
+                    "fat": 25,
+                    "description": "Bake at 180\u00b0C for 20 minutes until fully cooked."
+                },
+                {
+                    "meal": "Egg white omelette with spinach and feta cheese",
+                    "calories": 421,
+                    "protein": 28,
+                    "carbs": 16,
+                    "fat": 10,
+                    "description": "Grill the ingredients for 10 minutes until golden brown."
+                }
+            ]
+        },
+        {
+            "tag": "Weight Management",
+            "patterns": [
+                "Suggest a weight management meal",
+                "I need a meal for weight management",
+                "Recommend a weight management diet",
+                "What should I eat for weight management goals?",
+                "Give me a weight management meal plan"
+            ],
+            "responses": [
+                {
+                    "meal": "Zucchini noodles with grilled shrimp",
+                    "calories": 363,
+                    "protein": 46,
+                    "carbs": 35,
+                    "fat": 8,
+                    "description": "Stir-fry in a pan over medium heat for 5 minutes."
+                },
+                {
+                    "meal": "Grilled chicken Caesar salad (no croutons)",
+                    "calories": 632,
+                    "protein": 39,
+                    "carbs": 5,
+                    "fat": 9,
+                    "description": "Boil in salted water for 15 minutes until tender."
+                },
+                {
+                    "meal": "Egg salad with avocado and mixed greens",
+                    "calories": 653,
+                    "protein": 29,
+                    "carbs": 66,
+                    "fat": 18,
+                    "description": "Mix all ingredients and let it rest for 30 minutes before serving."
+                },
+                {
+                    "meal": "Stuffed bell peppers with ground turkey and cheese",
+                    "calories": 466,
+                    "protein": 42,
+                    "carbs": 6,
+                    "fat": 19,
+                    "description": "Mix all ingredients and let it rest for 30 minutes before serving."
+                }
+            ]
+        },
+        {
+            "tag": "Caloric Deficit",
+            "patterns": [
+                "Suggest a caloric deficit meal",
+                "I need a meal for caloric deficit",
+                "Recommend a caloric deficit diet",
+                "What should I eat for caloric deficit goals?",
+                "Give me a caloric deficit meal plan"
+            ],
+            "responses": [
+                {
+                    "meal": "Steamed fish with quinoa and mixed greens",
+                    "calories": 362,
+                    "protein": 57,
+                    "carbs": 47,
+                    "fat": 15,
+                    "description": "Stir-fry in a pan over medium heat for 5 minutes."
+                },
+                {
+                    "meal": "Vegetable soup with lentils and herbs",
+                    "calories": 480,
+                    "protein": 58,
+                    "carbs": 74,
+                    "fat": 17,
+                    "description": "Roast in an oven at 200\u00b0C for 25 minutes until crispy."
+                },
+                {
+                    "meal": "Turkey lettuce wraps with salsa",
+                    "calories": 346,
+                    "protein": 17,
+                    "carbs": 60,
+                    "fat": 23,
+                    "description": "Boil in salted water for 15 minutes until tender."
+                },
+                {
+                    "meal": "Cucumber and tomato salad with grilled chicken",
+                    "calories": 415,
+                    "protein": 54,
+                    "carbs": 14,
+                    "fat": 21,
+                    "description": "Grill the ingredients for 10 minutes until golden brown."
+                }
+            ]
+        },
+        {
+            "tag": "High Protein",
+            "patterns": [
+                "Suggest a high protein meal",
+                "I need a meal for high protein",
+                "Recommend a high protein diet",
+                "What should I eat for high protein goals?",
+                "Give me a high protein meal plan"
+            ],
+            "responses": [
+                {
+                    "meal": "Chicken breast with quinoa and steamed vegetables",
+                    "calories": 576,
+                    "protein": 57,
+                    "carbs": 14,
+                    "fat": 25,
+                    "description": "Roast in an oven at 200\u00b0C for 25 minutes until crispy."
+                },
+                {
+                    "meal": "Tuna salad with whole grain bread",
+                    "calories": 679,
+                    "protein": 32,
+                    "carbs": 33,
+                    "fat": 24,
+                    "description": "Slow cook for 4 hours for deep flavor infusion."
+                },
+                {
+                    "meal": "Protein smoothie with banana, peanut butter, and milk",
+                    "calories": 673,
+                    "protein": 52,
+                    "carbs": 16,
+                    "fat": 13,
+                    "description": "Blend all ingredients together until smooth."
+                },
+                {
+                    "meal": "Eggs with whole grain toast and smoked salmon",
+                    "calories": 290,
+                    "protein": 21,
+                    "carbs": 33,
+                    "fat": 16,
+                    "description": "Steam the ingredients for 10 minutes to retain nutrients."
+                }
+            ]
+        },
+        {
+            "tag": "Low Carb, High Fat",
+            "patterns": [
+                "Suggest a low carb, high fat meal",
+                "I need a meal for low carb, high fat",
+                "Recommend a low carb, high fat diet",
+                "What should I eat for low carb, high fat goals?",
+                "Give me a low carb, high fat meal plan"
+            ],
+            "responses": [
+                {
+                    "meal": "Cheese and nuts with olives",
+                    "calories": 526,
+                    "protein": 52,
+                    "carbs": 42,
+                    "fat": 15,
+                    "description": "Bake at 180\u00b0C for 20 minutes until fully cooked."
+                },
+                {
+                    "meal": "Grilled salmon with creamy spinach",
+                    "calories": 513,
+                    "protein": 55,
+                    "carbs": 80,
+                    "fat": 14,
+                    "description": "Grill the ingredients for 10 minutes until golden brown."
+                },
+                {
+                    "meal": "Avocado with cheese and almonds",
+                    "calories": 336,
+                    "protein": 25,
+                    "carbs": 21,
+                    "fat": 22,
+                    "description": "Slow cook for 4 hours for deep flavor infusion."
+                },
+                {
+                    "meal": "Zucchini noodles with Alfredo sauce and shrimp",
+                    "calories": 423,
+                    "protein": 50,
+                    "carbs": 27,
+                    "fat": 17,
+                    "description": "Stir-fry in a pan over medium heat for 5 minutes."
+                }
+            ]
+        },
+        {
+            "tag": "Allergy-Friendly",
+            "patterns": [
+                "Suggest a allergy-friendly meal",
+                "I need a meal for allergy-friendly",
+                "Recommend a allergy-friendly diet",
+                "What should I eat for allergy-friendly goals?",
+                "Give me a allergy-friendly meal plan"
+            ],
+            "responses": [
+                {
+                    "meal": "Grilled chicken salad with avocado",
+                    "calories": 443,
+                    "protein": 29,
+                    "carbs": 19,
+                    "fat": 29,
+                    "description": "Stir-fry in a pan over medium heat for 5 minutes."
+                },
+                {
+                    "meal": "Quinoa and vegetable stir-fry",
+                    "calories": 507,
+                    "protein": 37,
+                    "carbs": 55,
+                    "fat": 12,
+                    "description": "Mix all ingredients and let it rest for 30 minutes before serving."
+                },
+                {
+                    "meal": "Shrimp and broccoli stir-fry with coconut aminos",
+                    "calories": 434,
+                    "protein": 23,
+                    "carbs": 7,
+                    "fat": 5,
+                    "description": "Blend all ingredients together until smooth."
+                },
+                {
+                    "meal": "Baked salmon with asparagus and roasted potatoes",
+                    "calories": 259,
+                    "protein": 33,
+                    "carbs": 72,
+                    "fat": 11,
+                    "description": "Saut\u00e9 in olive oil over medium heat for 7 minutes."
+                }
+            ]
+        },
+        {
+            "tag": "Energy Boosting",
+            "patterns": [
+                "Suggest a energy boosting meal",
+                "I need a meal for energy boosting",
+                "Recommend a energy boosting diet",
+                "What should I eat for energy boosting goals?",
+                "Give me a energy boosting meal plan"
+            ],
+            "responses": [
+                {
+                    "meal": "Brown rice with grilled salmon and steamed veggies",
+                    "calories": 257,
+                    "protein": 29,
+                    "carbs": 8,
+                    "fat": 15,
+                    "description": "Steam the ingredients for 10 minutes to retain nutrients."
+                },
+                {
+                    "meal": "Whole wheat pasta with lean beef and tomato sauce",
+                    "calories": 328,
+                    "protein": 12,
+                    "carbs": 18,
+                    "fat": 24,
+                    "description": "Mix all ingredients and let it rest for 30 minutes before serving."
+                },
+                {
+                    "meal": "Oatmeal with banana and almond butter",
+                    "calories": 505,
+                    "protein": 26,
+                    "carbs": 15,
+                    "fat": 8,
+                    "description": "Steam the ingredients for 10 minutes to retain nutrients."
+                },
+                {
+                    "meal": "Sweet potato and black bean burrito",
+                    "calories": 661,
+                    "protein": 55,
+                    "carbs": 30,
+                    "fat": 23,
+                    "description": "Saut\u00e9 in olive oil over medium heat for 7 minutes."
+                }
+            ]
+        },
+        {
+            "tag": "Heart Healthy",
+            "patterns": [
+                "Suggest a heart healthy meal",
+                "I need a meal for heart healthy",
+                "Recommend a heart healthy diet",
+                "What should I eat for heart healthy goals?",
+                "Give me a heart healthy meal plan"
+            ],
+            "responses": [
+                {
+                    "meal": "Hummus with whole grain pita and Greek salad",
+                    "calories": 364,
+                    "protein": 21,
+                    "carbs": 16,
+                    "fat": 14,
+                    "description": "Bake at 180\u00b0C for 20 minutes until fully cooked."
+                },
+                {
+                    "meal": "Grilled fish with olives, tomatoes, and feta cheese",
+                    "calories": 616,
+                    "protein": 27,
+                    "carbs": 54,
+                    "fat": 7,
+                    "description": "Bake at 180\u00b0C for 20 minutes until fully cooked."
+                },
+                {
+                    "meal": "Lentil soup with olive oil and lemon",
+                    "calories": 582,
+                    "protein": 33,
+                    "carbs": 66,
+                    "fat": 11,
+                    "description": "Blend all ingredients together until smooth."
+                },
+                {
+                    "meal": "Tabbouleh salad with grilled chicken",
+                    "calories": 642,
+                    "protein": 18,
+                    "carbs": 42,
+                    "fat": 7,
+                    "description": "Stir-fry in a pan over medium heat for 5 minutes."
+                }
+            ]
+        },
+        {
+            "tag": "Muscle Building",
+            "patterns": [
+                "Suggest a muscle building meal",
+                "I need a meal for muscle building",
+                "Recommend a muscle building diet",
+                "What should I eat for muscle building goals?",
+                "Give me a muscle building meal plan"
+            ],
+            "responses": [
+                {
+                    "meal": "Grilled chicken with quinoa and steamed broccoli",
+                    "calories": 259,
+                    "protein": 54,
+                    "carbs": 15,
+                    "fat": 28,
+                    "description": "Grill the ingredients for 10 minutes until golden brown."
+                },
+                {
+                    "meal": "Scrambled eggs with turkey and spinach",
+                    "calories": 661,
+                    "protein": 47,
+                    "carbs": 47,
+                    "fat": 17,
+                    "description": "Roast in an oven at 200\u00b0C for 25 minutes until crispy."
+                },
+                {
+                    "meal": "Salmon with sweet potatoes and asparagus",
+                    "calories": 665,
+                    "protein": 28,
+                    "carbs": 38,
+                    "fat": 22,
+                    "description": "Slow cook for 4 hours for deep flavor infusion."
+                },
+                {
+                    "meal": "Beef steak with roasted vegetables and avocado",
+                    "calories": 657,
+                    "protein": 37,
+                    "carbs": 21,
+                    "fat": 14,
+                    "description": "Slow cook for 4 hours for deep flavor infusion."
+                }
+            ]
+        },
+        {
+            "tag": "Plant-Based",
+            "patterns": [
+                "Suggest a plant-based meal",
+                "I need a meal for plant-based",
+                "Recommend a plant-based diet",
+                "What should I eat for plant-based goals?",
+                "Give me a plant-based meal plan"
+            ],
+            "responses": [
+                {
+                    "meal": "Lentil and quinoa power bowl",
+                    "calories": 697,
+                    "protein": 26,
+                    "carbs": 13,
+                    "fat": 8,
+                    "description": "Slow cook for 4 hours for deep flavor infusion."
+                },
+                {
+                    "meal": "Chickpea and spinach curry with brown rice",
+                    "calories": 299,
+                    "protein": 14,
+                    "carbs": 77,
+                    "fat": 22,
+                    "description": "Slow cook for 4 hours for deep flavor infusion."
+                },
+                {
+                    "meal": "Tofu and vegetable stir-fry with soy sauce",
+                    "calories": 574,
+                    "protein": 49,
+                    "carbs": 22,
+                    "fat": 24,
+                    "description": "Mix all ingredients and let it rest for 30 minutes before serving."
+                },
+                {
+                    "meal": "Mushroom risotto with cashew cream",
+                    "calories": 676,
+                    "protein": 28,
+                    "carbs": 20,
+                    "fat": 13,
+                    "description": "Stir-fry in a pan over medium heat for 5 minutes."
+                }
+            ]
+        },
+        {
+            "tag": "Low Sugar",
+            "patterns": [
+                "Suggest a low sugar meal",
+                "I need a meal for low sugar",
+                "Recommend a low sugar diet",
+                "What should I eat for low sugar goals?",
+                "Give me a low sugar meal plan"
+            ],
+            "responses": [
+                {
+                    "meal": "Grilled salmon with roasted Brussels sprouts",
+                    "calories": 686,
+                    "protein": 17,
+                    "carbs": 53,
+                    "fat": 20,
+                    "description": "Roast in an oven at 200\u00b0C for 25 minutes until crispy."
+                },
+                {
+                    "meal": "Oatmeal with nuts and berries (no added sugar)",
+                    "calories": 436,
+                    "protein": 38,
+                    "carbs": 34,
+                    "fat": 29,
+                    "description": "Stir-fry in a pan over medium heat for 5 minutes."
+                },
+                {
+                    "meal": "Quinoa and black bean salad with lemon dressing",
+                    "calories": 651,
+                    "protein": 54,
+                    "carbs": 36,
+                    "fat": 23,
+                    "description": "Stir-fry in a pan over medium heat for 5 minutes."
+                },
+                {
+                    "meal": "Egg white omelette with spinach and feta cheese",
+                    "calories": 598,
+                    "protein": 15,
+                    "carbs": 22,
+                    "fat": 26,
+                    "description": "Grill the ingredients for 10 minutes until golden brown."
+                }
+            ]
+        },
+        {
+            "tag": "Weight Management",
+            "patterns": [
+                "Suggest a weight management meal",
+                "I need a meal for weight management",
+                "Recommend a weight management diet",
+                "What should I eat for weight management goals?",
+                "Give me a weight management meal plan"
+            ],
+            "responses": [
+                {
+                    "meal": "Zucchini noodles with grilled shrimp",
+                    "calories": 352,
+                    "protein": 35,
+                    "carbs": 12,
+                    "fat": 17,
+                    "description": "Boil in salted water for 15 minutes until tender."
+                },
+                {
+                    "meal": "Grilled chicken Caesar salad (no croutons)",
+                    "calories": 343,
+                    "protein": 26,
+                    "carbs": 52,
+                    "fat": 27,
+                    "description": "Mix all ingredients and let it rest for 30 minutes before serving."
+                },
+                {
+                    "meal": "Egg salad with avocado and mixed greens",
+                    "calories": 469,
+                    "protein": 10,
+                    "carbs": 30,
+                    "fat": 5,
+                    "description": "Saut\u00e9 in olive oil over medium heat for 7 minutes."
+                },
+                {
+                    "meal": "Stuffed bell peppers with ground turkey and cheese",
+                    "calories": 566,
+                    "protein": 41,
+                    "carbs": 22,
+                    "fat": 5,
+                    "description": "Blend all ingredients together until smooth."
+                }
+            ]
+        },
+        {
+            "tag": "Caloric Deficit",
+            "patterns": [
+                "Suggest a caloric deficit meal",
+                "I need a meal for caloric deficit",
+                "Recommend a caloric deficit diet",
+                "What should I eat for caloric deficit goals?",
+                "Give me a caloric deficit meal plan"
+            ],
+            "responses": [
+                {
+                    "meal": "Steamed fish with quinoa and mixed greens",
+                    "calories": 571,
+                    "protein": 36,
+                    "carbs": 31,
+                    "fat": 19,
+                    "description": "Saut\u00e9 in olive oil over medium heat for 7 minutes."
+                },
+                {
+                    "meal": "Vegetable soup with lentils and herbs",
+                    "calories": 542,
+                    "protein": 60,
+                    "carbs": 76,
+                    "fat": 11,
+                    "description": "Steam the ingredients for 10 minutes to retain nutrients."
+                },
+                {
+                    "meal": "Turkey lettuce wraps with salsa",
+                    "calories": 629,
+                    "protein": 52,
+                    "carbs": 6,
+                    "fat": 26,
+                    "description": "Mix all ingredients and let it rest for 30 minutes before serving."
+                },
+                {
+                    "meal": "Cucumber and tomato salad with grilled chicken",
+                    "calories": 594,
+                    "protein": 51,
+                    "carbs": 67,
+                    "fat": 18,
+                    "description": "Boil in salted water for 15 minutes until tender."
+                }
+            ]
+        },
+        {
+            "tag": "High Protein",
+            "patterns": [
+                "Suggest a high protein meal",
+                "I need a meal for high protein",
+                "Recommend a high protein diet",
+                "What should I eat for high protein goals?",
+                "Give me a high protein meal plan"
+            ],
+            "responses": [
+                {
+                    "meal": "Chicken breast with quinoa and steamed vegetables",
+                    "calories": 693,
+                    "protein": 30,
+                    "carbs": 62,
+                    "fat": 15,
+                    "description": "Grill the ingredients for 10 minutes until golden brown."
+                },
+                {
+                    "meal": "Tuna salad with whole grain bread",
+                    "calories": 371,
+                    "protein": 55,
+                    "carbs": 80,
+                    "fat": 14,
+                    "description": "Blend all ingredients together until smooth."
+                },
+                {
+                    "meal": "Protein smoothie with banana, peanut butter, and milk",
+                    "calories": 278,
+                    "protein": 21,
+                    "carbs": 53,
+                    "fat": 18,
+                    "description": "Grill the ingredients for 10 minutes until golden brown."
+                },
+                {
+                    "meal": "Eggs with whole grain toast and smoked salmon",
+                    "calories": 368,
+                    "protein": 42,
+                    "carbs": 36,
+                    "fat": 23,
+                    "description": "Slow cook for 4 hours for deep flavor infusion."
+                }
+            ]
+        },
+        {
+            "tag": "Low Carb, High Fat",
+            "patterns": [
+                "Suggest a low carb, high fat meal",
+                "I need a meal for low carb, high fat",
+                "Recommend a low carb, high fat diet",
+                "What should I eat for low carb, high fat goals?",
+                "Give me a low carb, high fat meal plan"
+            ],
+            "responses": [
+                {
+                    "meal": "Cheese and nuts with olives",
+                    "calories": 493,
+                    "protein": 37,
+                    "carbs": 66,
+                    "fat": 12,
+                    "description": "Saut\u00e9 in olive oil over medium heat for 7 minutes."
+                },
+                {
+                    "meal": "Grilled salmon with creamy spinach",
+                    "calories": 686,
+                    "protein": 45,
+                    "carbs": 77,
+                    "fat": 14,
+                    "description": "Mix all ingredients and let it rest for 30 minutes before serving."
+                },
+                {
+                    "meal": "Avocado with cheese and almonds",
+                    "calories": 525,
+                    "protein": 36,
+                    "carbs": 80,
+                    "fat": 28,
+                    "description": "Stir-fry in a pan over medium heat for 5 minutes."
+                },
+                {
+                    "meal": "Zucchini noodles with Alfredo sauce and shrimp",
+                    "calories": 380,
+                    "protein": 28,
+                    "carbs": 66,
+                    "fat": 22,
+                    "description": "Saut\u00e9 in olive oil over medium heat for 7 minutes."
+                }
+            ]
+        },
+        {
+            "tag": "Allergy-Friendly",
+            "patterns": [
+                "Suggest a allergy-friendly meal",
+                "I need a meal for allergy-friendly",
+                "Recommend a allergy-friendly diet",
+                "What should I eat for allergy-friendly goals?",
+                "Give me a allergy-friendly meal plan"
+            ],
+            "responses": [
+                {
+                    "meal": "Grilled chicken salad with avocado",
+                    "calories": 389,
+                    "protein": 45,
+                    "carbs": 48,
+                    "fat": 12,
+                    "description": "Mix all ingredients and let it rest for 30 minutes before serving."
+                },
+                {
+                    "meal": "Quinoa and vegetable stir-fry",
+                    "calories": 617,
+                    "protein": 52,
+                    "carbs": 5,
+                    "fat": 16,
+                    "description": "Mix all ingredients and let it rest for 30 minutes before serving."
+                },
+                {
+                    "meal": "Shrimp and broccoli stir-fry with coconut aminos",
+                    "calories": 597,
+                    "protein": 22,
+                    "carbs": 50,
+                    "fat": 14,
+                    "description": "Steam the ingredients for 10 minutes to retain nutrients."
+                },
+                {
+                    "meal": "Baked salmon with asparagus and roasted potatoes",
+                    "calories": 290,
+                    "protein": 45,
+                    "carbs": 62,
+                    "fat": 19,
+                    "description": "Bake at 180\u00b0C for 20 minutes until fully cooked."
+                }
+            ]
+        },
+        {
+            "tag": "Energy Boosting",
+            "patterns": [
+                "Suggest a energy boosting meal",
+                "I need a meal for energy boosting",
+                "Recommend a energy boosting diet",
+                "What should I eat for energy boosting goals?",
+                "Give me a energy boosting meal plan"
+            ],
+            "responses": [
+                {
+                    "meal": "Brown rice with grilled salmon and steamed veggies",
+                    "calories": 475,
+                    "protein": 11,
+                    "carbs": 6,
+                    "fat": 6,
+                    "description": "Grill the ingredients for 10 minutes until golden brown."
+                },
+                {
+                    "meal": "Whole wheat pasta with lean beef and tomato sauce",
+                    "calories": 419,
+                    "protein": 50,
+                    "carbs": 23,
+                    "fat": 17,
+                    "description": "Boil in salted water for 15 minutes until tender."
+                },
+                {
+                    "meal": "Oatmeal with banana and almond butter",
+                    "calories": 531,
+                    "protein": 20,
+                    "carbs": 48,
+                    "fat": 6,
+                    "description": "Slow cook for 4 hours for deep flavor infusion."
+                },
+                {
+                    "meal": "Sweet potato and black bean burrito",
+                    "calories": 433,
+                    "protein": 23,
+                    "carbs": 5,
+                    "fat": 22,
+                    "description": "Mix all ingredients and let it rest for 30 minutes before serving."
+                }
+            ]
+        },
+        {
+            "tag": "Heart Healthy",
+            "patterns": [
+                "Suggest a heart healthy meal",
+                "I need a meal for heart healthy",
+                "Recommend a heart healthy diet",
+                "What should I eat for heart healthy goals?",
+                "Give me a heart healthy meal plan"
+            ],
+            "responses": [
+                {
+                    "meal": "Hummus with whole grain pita and Greek salad",
+                    "calories": 377,
+                    "protein": 41,
+                    "carbs": 55,
+                    "fat": 7,
+                    "description": "Boil in salted water for 15 minutes until tender."
+                },
+                {
+                    "meal": "Grilled fish with olives, tomatoes, and feta cheese",
+                    "calories": 366,
+                    "protein": 28,
+                    "carbs": 55,
+                    "fat": 5,
+                    "description": "Bake at 180\u00b0C for 20 minutes until fully cooked."
+                },
+                {
+                    "meal": "Lentil soup with olive oil and lemon",
+                    "calories": 283,
+                    "protein": 26,
+                    "carbs": 33,
+                    "fat": 11,
+                    "description": "Stir-fry in a pan over medium heat for 5 minutes."
+                },
+                {
+                    "meal": "Tabbouleh salad with grilled chicken",
+                    "calories": 575,
+                    "protein": 16,
+                    "carbs": 80,
+                    "fat": 14,
+                    "description": "Bake at 180\u00b0C for 20 minutes until fully cooked."
+                }
+            ]
+        },
+        {
+            "tag": "Muscle Building",
+            "patterns": [
+                "Suggest a muscle building meal",
+                "I need a meal for muscle building",
+                "Recommend a muscle building diet",
+                "What should I eat for muscle building goals?",
+                "Give me a muscle building meal plan"
+            ],
+            "responses": [
+                {
+                    "meal": "Grilled chicken with quinoa and steamed broccoli",
+                    "calories": 532,
+                    "protein": 43,
+                    "carbs": 38,
+                    "fat": 24,
+                    "description": "Mix all ingredients and let it rest for 30 minutes before serving."
+                },
+                {
+                    "meal": "Scrambled eggs with turkey and spinach",
+                    "calories": 675,
+                    "protein": 46,
+                    "carbs": 70,
+                    "fat": 23,
+                    "description": "Slow cook for 4 hours for deep flavor infusion."
+                },
+                {
+                    "meal": "Salmon with sweet potatoes and asparagus",
+                    "calories": 260,
+                    "protein": 56,
+                    "carbs": 33,
+                    "fat": 12,
+                    "description": "Roast in an oven at 200\u00b0C for 25 minutes until crispy."
+                },
+                {
+                    "meal": "Beef steak with roasted vegetables and avocado",
+                    "calories": 341,
+                    "protein": 59,
+                    "carbs": 37,
+                    "fat": 23,
+                    "description": "Grill the ingredients for 10 minutes until golden brown."
+                }
+            ]
+        },
+        {
+            "tag": "Plant-Based",
+            "patterns": [
+                "Suggest a plant-based meal",
+                "I need a meal for plant-based",
+                "Recommend a plant-based diet",
+                "What should I eat for plant-based goals?",
+                "Give me a plant-based meal plan"
+            ],
+            "responses": [
+                {
+                    "meal": "Lentil and quinoa power bowl",
+                    "calories": 471,
+                    "protein": 35,
+                    "carbs": 6,
+                    "fat": 14,
+                    "description": "Blend all ingredients together until smooth."
+                },
+                {
+                    "meal": "Chickpea and spinach curry with brown rice",
+                    "calories": 476,
+                    "protein": 11,
+                    "carbs": 67,
+                    "fat": 5,
+                    "description": "Roast in an oven at 200\u00b0C for 25 minutes until crispy."
+                },
+                {
+                    "meal": "Tofu and vegetable stir-fry with soy sauce",
+                    "calories": 641,
+                    "protein": 45,
+                    "carbs": 6,
+                    "fat": 19,
+                    "description": "Boil in salted water for 15 minutes until tender."
+                },
+                {
+                    "meal": "Mushroom risotto with cashew cream",
+                    "calories": 254,
+                    "protein": 34,
+                    "carbs": 55,
+                    "fat": 30,
+                    "description": "Roast in an oven at 200\u00b0C for 25 minutes until crispy."
+                }
+            ]
+        },
+        {
+            "tag": "Low Sugar",
+            "patterns": [
+                "Suggest a low sugar meal",
+                "I need a meal for low sugar",
+                "Recommend a low sugar diet",
+                "What should I eat for low sugar goals?",
+                "Give me a low sugar meal plan"
+            ],
+            "responses": [
+                {
+                    "meal": "Grilled salmon with roasted Brussels sprouts",
+                    "calories": 559,
+                    "protein": 57,
+                    "carbs": 21,
+                    "fat": 19,
+                    "description": "Roast in an oven at 200\u00b0C for 25 minutes until crispy."
+                },
+                {
+                    "meal": "Oatmeal with nuts and berries (no added sugar)",
+                    "calories": 445,
+                    "protein": 32,
+                    "carbs": 28,
+                    "fat": 21,
+                    "description": "Boil in salted water for 15 minutes until tender."
+                },
+                {
+                    "meal": "Quinoa and black bean salad with lemon dressing",
+                    "calories": 559,
+                    "protein": 41,
+                    "carbs": 62,
+                    "fat": 10,
+                    "description": "Roast in an oven at 200\u00b0C for 25 minutes until crispy."
+                },
+                {
+                    "meal": "Egg white omelette with spinach and feta cheese",
+                    "calories": 535,
+                    "protein": 50,
+                    "carbs": 43,
+                    "fat": 17,
+                    "description": "Boil in salted water for 15 minutes until tender."
+                }
+            ]
+        },
+        {
+            "tag": "Weight Management",
+            "patterns": [
+                "Suggest a weight management meal",
+                "I need a meal for weight management",
+                "Recommend a weight management diet",
+                "What should I eat for weight management goals?",
+                "Give me a weight management meal plan"
+            ],
+            "responses": [
+                {
+                    "meal": "Zucchini noodles with grilled shrimp",
+                    "calories": 416,
+                    "protein": 54,
+                    "carbs": 39,
+                    "fat": 11,
+                    "description": "Bake at 180\u00b0C for 20 minutes until fully cooked."
+                },
+                {
+                    "meal": "Grilled chicken Caesar salad (no croutons)",
+                    "calories": 262,
+                    "protein": 37,
+                    "carbs": 59,
+                    "fat": 21,
+                    "description": "Stir-fry in a pan over medium heat for 5 minutes."
+                },
+                {
+                    "meal": "Egg salad with avocado and mixed greens",
+                    "calories": 667,
+                    "protein": 19,
+                    "carbs": 26,
+                    "fat": 26,
+                    "description": "Roast in an oven at 200\u00b0C for 25 minutes until crispy."
+                },
+                {
+                    "meal": "Stuffed bell peppers with ground turkey and cheese",
+                    "calories": 309,
+                    "protein": 24,
+                    "carbs": 23,
+                    "fat": 24,
+                    "description": "Blend all ingredients together until smooth."
+                }
+            ]
+        },
+        {
+            "tag": "Caloric Deficit",
+            "patterns": [
+                "Suggest a caloric deficit meal",
+                "I need a meal for caloric deficit",
+                "Recommend a caloric deficit diet",
+                "What should I eat for caloric deficit goals?",
+                "Give me a caloric deficit meal plan"
+            ],
+            "responses": [
+                {
+                    "meal": "Steamed fish with quinoa and mixed greens",
+                    "calories": 656,
+                    "protein": 46,
+                    "carbs": 40,
+                    "fat": 14,
+                    "description": "Grill the ingredients for 10 minutes until golden brown."
+                },
+                {
+                    "meal": "Vegetable soup with lentils and herbs",
+                    "calories": 478,
+                    "protein": 27,
+                    "carbs": 35,
+                    "fat": 9,
+                    "description": "Mix all ingredients and let it rest for 30 minutes before serving."
+                },
+                {
+                    "meal": "Turkey lettuce wraps with salsa",
+                    "calories": 582,
+                    "protein": 27,
+                    "carbs": 45,
+                    "fat": 29,
+                    "description": "Slow cook for 4 hours for deep flavor infusion."
+                },
+                {
+                    "meal": "Cucumber and tomato salad with grilled chicken",
+                    "calories": 278,
+                    "protein": 38,
+                    "carbs": 18,
+                    "fat": 11,
+                    "description": "Saut\u00e9 in olive oil over medium heat for 7 minutes."
+                }
+            ]
+        },
+        {
+            "tag": "High Protein",
+            "patterns": [
+                "Suggest a high protein meal",
+                "I need a meal for high protein",
+                "Recommend a high protein diet",
+                "What should I eat for high protein goals?",
+                "Give me a high protein meal plan"
+            ],
+            "responses": [
+                {
+                    "meal": "Chicken breast with quinoa and steamed vegetables",
+                    "calories": 693,
+                    "protein": 28,
+                    "carbs": 42,
+                    "fat": 14,
+                    "description": "Blend all ingredients together until smooth."
+                },
+                {
+                    "meal": "Tuna salad with whole grain bread",
+                    "calories": 655,
+                    "protein": 32,
+                    "carbs": 51,
+                    "fat": 20,
+                    "description": "Stir-fry in a pan over medium heat for 5 minutes."
+                },
+                {
+                    "meal": "Protein smoothie with banana, peanut butter, and milk",
+                    "calories": 428,
+                    "protein": 45,
+                    "carbs": 17,
+                    "fat": 27,
+                    "description": "Steam the ingredients for 10 minutes to retain nutrients."
+                },
+                {
+                    "meal": "Eggs with whole grain toast and smoked salmon",
+                    "calories": 690,
+                    "protein": 52,
+                    "carbs": 25,
+                    "fat": 23,
+                    "description": "Blend all ingredients together until smooth."
+                }
+            ]
+        },
+        {
+            "tag": "Low Carb, High Fat",
+            "patterns": [
+                "Suggest a low carb, high fat meal",
+                "I need a meal for low carb, high fat",
+                "Recommend a low carb, high fat diet",
+                "What should I eat for low carb, high fat goals?",
+                "Give me a low carb, high fat meal plan"
+            ],
+            "responses": [
+                {
+                    "meal": "Cheese and nuts with olives",
+                    "calories": 320,
+                    "protein": 45,
+                    "carbs": 49,
+                    "fat": 22,
+                    "description": "Blend all ingredients together until smooth."
+                },
+                {
+                    "meal": "Grilled salmon with creamy spinach",
+                    "calories": 495,
+                    "protein": 33,
+                    "carbs": 20,
+                    "fat": 25,
+                    "description": "Roast in an oven at 200\u00b0C for 25 minutes until crispy."
+                },
+                {
+                    "meal": "Avocado with cheese and almonds",
+                    "calories": 461,
+                    "protein": 11,
+                    "carbs": 11,
+                    "fat": 14,
+                    "description": "Mix all ingredients and let it rest for 30 minutes before serving."
+                },
+                {
+                    "meal": "Zucchini noodles with Alfredo sauce and shrimp",
+                    "calories": 342,
+                    "protein": 45,
+                    "carbs": 22,
+                    "fat": 11,
+                    "description": "Bake at 180\u00b0C for 20 minutes until fully cooked."
+                }
+            ]
+        },
+        {
+            "tag": "Allergy-Friendly",
+            "patterns": [
+                "Suggest a allergy-friendly meal",
+                "I need a meal for allergy-friendly",
+                "Recommend a allergy-friendly diet",
+                "What should I eat for allergy-friendly goals?",
+                "Give me a allergy-friendly meal plan"
+            ],
+            "responses": [
+                {
+                    "meal": "Grilled chicken salad with avocado",
+                    "calories": 283,
+                    "protein": 50,
+                    "carbs": 63,
+                    "fat": 22,
+                    "description": "Grill the ingredients for 10 minutes until golden brown."
+                },
+                {
+                    "meal": "Quinoa and vegetable stir-fry",
+                    "calories": 565,
+                    "protein": 54,
+                    "carbs": 57,
+                    "fat": 20,
+                    "description": "Boil in salted water for 15 minutes until tender."
+                },
+                {
+                    "meal": "Shrimp and broccoli stir-fry with coconut aminos",
+                    "calories": 315,
+                    "protein": 20,
+                    "carbs": 80,
+                    "fat": 9,
+                    "description": "Roast in an oven at 200\u00b0C for 25 minutes until crispy."
+                },
+                {
+                    "meal": "Baked salmon with asparagus and roasted potatoes",
+                    "calories": 483,
+                    "protein": 54,
+                    "carbs": 17,
+                    "fat": 20,
+                    "description": "Mix all ingredients and let it rest for 30 minutes before serving."
+                }
+            ]
+        },
+        {
+            "tag": "Energy Boosting",
+            "patterns": [
+                "Suggest a energy boosting meal",
+                "I need a meal for energy boosting",
+                "Recommend a energy boosting diet",
+                "What should I eat for energy boosting goals?",
+                "Give me a energy boosting meal plan"
+            ],
+            "responses": [
+                {
+                    "meal": "Brown rice with grilled salmon and steamed veggies",
+                    "calories": 592,
+                    "protein": 32,
+                    "carbs": 75,
+                    "fat": 26,
+                    "description": "Saut\u00e9 in olive oil over medium heat for 7 minutes."
+                },
+                {
+                    "meal": "Whole wheat pasta with lean beef and tomato sauce",
+                    "calories": 316,
+                    "protein": 40,
+                    "carbs": 9,
+                    "fat": 15,
+                    "description": "Grill the ingredients for 10 minutes until golden brown."
+                },
+                {
+                    "meal": "Oatmeal with banana and almond butter",
+                    "calories": 551,
+                    "protein": 55,
+                    "carbs": 38,
+                    "fat": 18,
+                    "description": "Grill the ingredients for 10 minutes until golden brown."
+                },
+                {
+                    "meal": "Sweet potato and black bean burrito",
+                    "calories": 481,
+                    "protein": 29,
+                    "carbs": 54,
+                    "fat": 16,
+                    "description": "Grill the ingredients for 10 minutes until golden brown."
+                }
+            ]
+        },
+        {
+            "tag": "Heart Healthy",
+            "patterns": [
+                "Suggest a heart healthy meal",
+                "I need a meal for heart healthy",
+                "Recommend a heart healthy diet",
+                "What should I eat for heart healthy goals?",
+                "Give me a heart healthy meal plan"
+            ],
+            "responses": [
+                {
+                    "meal": "Hummus with whole grain pita and Greek salad",
+                    "calories": 368,
+                    "protein": 15,
+                    "carbs": 78,
+                    "fat": 21,
+                    "description": "Roast in an oven at 200\u00b0C for 25 minutes until crispy."
+                },
+                {
+                    "meal": "Grilled fish with olives, tomatoes, and feta cheese",
+                    "calories": 267,
+                    "protein": 19,
+                    "carbs": 50,
+                    "fat": 26,
+                    "description": "Slow cook for 4 hours for deep flavor infusion."
+                },
+                {
+                    "meal": "Lentil soup with olive oil and lemon",
+                    "calories": 578,
+                    "protein": 35,
+                    "carbs": 26,
+                    "fat": 20,
+                    "description": "Boil in salted water for 15 minutes until tender."
+                },
+                {
+                    "meal": "Tabbouleh salad with grilled chicken",
+                    "calories": 671,
+                    "protein": 23,
+                    "carbs": 52,
+                    "fat": 24,
+                    "description": "Grill the ingredients for 10 minutes until golden brown."
+                }
+            ]
+        },
+        {
+            "tag": "Muscle Building",
+            "patterns": [
+                "Suggest a muscle building meal",
+                "I need a meal for muscle building",
+                "Recommend a muscle building diet",
+                "What should I eat for muscle building goals?",
+                "Give me a muscle building meal plan"
+            ],
+            "responses": [
+                {
+                    "meal": "Grilled chicken with quinoa and steamed broccoli",
+                    "calories": 694,
+                    "protein": 58,
+                    "carbs": 50,
+                    "fat": 13,
+                    "description": "Bake at 180\u00b0C for 20 minutes until fully cooked."
+                },
+                {
+                    "meal": "Scrambled eggs with turkey and spinach",
+                    "calories": 278,
+                    "protein": 20,
+                    "carbs": 30,
+                    "fat": 23,
+                    "description": "Blend all ingredients together until smooth."
+                },
+                {
+                    "meal": "Salmon with sweet potatoes and asparagus",
+                    "calories": 598,
+                    "protein": 22,
+                    "carbs": 43,
+                    "fat": 22,
+                    "description": "Saut\u00e9 in olive oil over medium heat for 7 minutes."
+                },
+                {
+                    "meal": "Beef steak with roasted vegetables and avocado",
+                    "calories": 329,
+                    "protein": 35,
+                    "carbs": 11,
+                    "fat": 7,
+                    "description": "Bake at 180\u00b0C for 20 minutes until fully cooked."
+                }
+            ]
+        },
+        {
+            "tag": "Plant-Based",
+            "patterns": [
+                "Suggest a plant-based meal",
+                "I need a meal for plant-based",
+                "Recommend a plant-based diet",
+                "What should I eat for plant-based goals?",
+                "Give me a plant-based meal plan"
+            ],
+            "responses": [
+                {
+                    "meal": "Lentil and quinoa power bowl",
+                    "calories": 579,
+                    "protein": 56,
+                    "carbs": 33,
+                    "fat": 16,
+                    "description": "Saut\u00e9 in olive oil over medium heat for 7 minutes."
+                },
+                {
+                    "meal": "Chickpea and spinach curry with brown rice",
+                    "calories": 408,
+                    "protein": 29,
+                    "carbs": 76,
+                    "fat": 20,
+                    "description": "Stir-fry in a pan over medium heat for 5 minutes."
+                },
+                {
+                    "meal": "Tofu and vegetable stir-fry with soy sauce",
+                    "calories": 422,
+                    "protein": 21,
+                    "carbs": 62,
+                    "fat": 9,
+                    "description": "Stir-fry in a pan over medium heat for 5 minutes."
+                },
+                {
+                    "meal": "Mushroom risotto with cashew cream",
+                    "calories": 631,
+                    "protein": 12,
+                    "carbs": 71,
+                    "fat": 29,
+                    "description": "Slow cook for 4 hours for deep flavor infusion."
+                }
+            ]
+        },
+        {
+            "tag": "Low Sugar",
+            "patterns": [
+                "Suggest a low sugar meal",
+                "I need a meal for low sugar",
+                "Recommend a low sugar diet",
+                "What should I eat for low sugar goals?",
+                "Give me a low sugar meal plan"
+            ],
+            "responses": [
+                {
+                    "meal": "Grilled salmon with roasted Brussels sprouts",
+                    "calories": 637,
+                    "protein": 23,
+                    "carbs": 76,
+                    "fat": 29,
+                    "description": "Blend all ingredients together until smooth."
+                },
+                {
+                    "meal": "Oatmeal with nuts and berries (no added sugar)",
+                    "calories": 364,
+                    "protein": 46,
+                    "carbs": 16,
+                    "fat": 25,
+                    "description": "Stir-fry in a pan over medium heat for 5 minutes."
+                },
+                {
+                    "meal": "Quinoa and black bean salad with lemon dressing",
+                    "calories": 302,
+                    "protein": 21,
+                    "carbs": 45,
+                    "fat": 8,
+                    "description": "Mix all ingredients and let it rest for 30 minutes before serving."
+                },
+                {
+                    "meal": "Egg white omelette with spinach and feta cheese",
+                    "calories": 263,
+                    "protein": 35,
+                    "carbs": 52,
+                    "fat": 17,
+                    "description": "Roast in an oven at 200\u00b0C for 25 minutes until crispy."
+                }
+            ]
+        },
+        {
+            "tag": "Weight Management",
+            "patterns": [
+                "Suggest a weight management meal",
+                "I need a meal for weight management",
+                "Recommend a weight management diet",
+                "What should I eat for weight management goals?",
+                "Give me a weight management meal plan"
+            ],
+            "responses": [
+                {
+                    "meal": "Zucchini noodles with grilled shrimp",
+                    "calories": 507,
+                    "protein": 31,
+                    "carbs": 52,
+                    "fat": 27,
+                    "description": "Steam the ingredients for 10 minutes to retain nutrients."
+                },
+                {
+                    "meal": "Grilled chicken Caesar salad (no croutons)",
+                    "calories": 383,
+                    "protein": 15,
+                    "carbs": 39,
+                    "fat": 22,
+                    "description": "Mix all ingredients and let it rest for 30 minutes before serving."
+                },
+                {
+                    "meal": "Egg salad with avocado and mixed greens",
+                    "calories": 689,
+                    "protein": 14,
+                    "carbs": 15,
+                    "fat": 28,
+                    "description": "Mix all ingredients and let it rest for 30 minutes before serving."
+                },
+                {
+                    "meal": "Stuffed bell peppers with ground turkey and cheese",
+                    "calories": 589,
+                    "protein": 16,
+                    "carbs": 10,
+                    "fat": 7,
+                    "description": "Blend all ingredients together until smooth."
+                }
+            ]
+        },
+        {
+            "tag": "Caloric Deficit",
+            "patterns": [
+                "Suggest a caloric deficit meal",
+                "I need a meal for caloric deficit",
+                "Recommend a caloric deficit diet",
+                "What should I eat for caloric deficit goals?",
+                "Give me a caloric deficit meal plan"
+            ],
+            "responses": [
+                {
+                    "meal": "Steamed fish with quinoa and mixed greens",
+                    "calories": 489,
+                    "protein": 29,
+                    "carbs": 69,
+                    "fat": 21,
+                    "description": "Mix all ingredients and let it rest for 30 minutes before serving."
+                },
+                {
+                    "meal": "Vegetable soup with lentils and herbs",
+                    "calories": 461,
+                    "protein": 36,
+                    "carbs": 30,
+                    "fat": 30,
+                    "description": "Roast in an oven at 200\u00b0C for 25 minutes until crispy."
+                },
+                {
+                    "meal": "Turkey lettuce wraps with salsa",
+                    "calories": 545,
+                    "protein": 54,
+                    "carbs": 55,
+                    "fat": 6,
+                    "description": "Blend all ingredients together until smooth."
+                },
+                {
+                    "meal": "Cucumber and tomato salad with grilled chicken",
+                    "calories": 630,
+                    "protein": 10,
+                    "carbs": 69,
+                    "fat": 21,
+                    "description": "Boil in salted water for 15 minutes until tender."
+                }
+            ]
+        },
+        {
+            "tag": "High Protein",
+            "patterns": [
+                "Suggest a high protein meal",
+                "I need a meal for high protein",
+                "Recommend a high protein diet",
+                "What should I eat for high protein goals?",
+                "Give me a high protein meal plan"
+            ],
+            "responses": [
+                {
+                    "meal": "Chicken breast with quinoa and steamed vegetables",
+                    "calories": 664,
+                    "protein": 49,
+                    "carbs": 80,
+                    "fat": 11,
+                    "description": "Saut\u00e9 in olive oil over medium heat for 7 minutes."
+                },
+                {
+                    "meal": "Tuna salad with whole grain bread",
+                    "calories": 276,
+                    "protein": 10,
+                    "carbs": 66,
+                    "fat": 15,
+                    "description": "Slow cook for 4 hours for deep flavor infusion."
+                },
+                {
+                    "meal": "Protein smoothie with banana, peanut butter, and milk",
+                    "calories": 454,
+                    "protein": 54,
+                    "carbs": 53,
+                    "fat": 30,
+                    "description": "Bake at 180\u00b0C for 20 minutes until fully cooked."
+                },
+                {
+                    "meal": "Eggs with whole grain toast and smoked salmon",
+                    "calories": 621,
+                    "protein": 56,
+                    "carbs": 67,
+                    "fat": 13,
+                    "description": "Saut\u00e9 in olive oil over medium heat for 7 minutes."
+                }
+            ]
+        },
+        {
+            "tag": "Low Carb, High Fat",
+            "patterns": [
+                "Suggest a low carb, high fat meal",
+                "I need a meal for low carb, high fat",
+                "Recommend a low carb, high fat diet",
+                "What should I eat for low carb, high fat goals?",
+                "Give me a low carb, high fat meal plan"
+            ],
+            "responses": [
+                {
+                    "meal": "Cheese and nuts with olives",
+                    "calories": 357,
+                    "protein": 21,
+                    "carbs": 33,
+                    "fat": 11,
+                    "description": "Steam the ingredients for 10 minutes to retain nutrients."
+                },
+                {
+                    "meal": "Grilled salmon with creamy spinach",
+                    "calories": 502,
+                    "protein": 52,
+                    "carbs": 9,
+                    "fat": 12,
+                    "description": "Blend all ingredients together until smooth."
+                },
+                {
+                    "meal": "Avocado with cheese and almonds",
+                    "calories": 405,
+                    "protein": 43,
+                    "carbs": 21,
+                    "fat": 28,
+                    "description": "Mix all ingredients and let it rest for 30 minutes before serving."
+                },
+                {
+                    "meal": "Zucchini noodles with Alfredo sauce and shrimp",
+                    "calories": 380,
+                    "protein": 47,
+                    "carbs": 70,
+                    "fat": 30,
+                    "description": "Bake at 180\u00b0C for 20 minutes until fully cooked."
+                }
+            ]
+        },
+        {
+            "tag": "Allergy-Friendly",
+            "patterns": [
+                "Suggest a allergy-friendly meal",
+                "I need a meal for allergy-friendly",
+                "Recommend a allergy-friendly diet",
+                "What should I eat for allergy-friendly goals?",
+                "Give me a allergy-friendly meal plan"
+            ],
+            "responses": [
+                {
+                    "meal": "Grilled chicken salad with avocado",
+                    "calories": 448,
+                    "protein": 45,
+                    "carbs": 67,
+                    "fat": 25,
+                    "description": "Roast in an oven at 200\u00b0C for 25 minutes until crispy."
+                },
+                {
+                    "meal": "Quinoa and vegetable stir-fry",
+                    "calories": 475,
+                    "protein": 31,
+                    "carbs": 26,
+                    "fat": 10,
+                    "description": "Saut\u00e9 in olive oil over medium heat for 7 minutes."
+                },
+                {
+                    "meal": "Shrimp and broccoli stir-fry with coconut aminos",
+                    "calories": 576,
+                    "protein": 14,
+                    "carbs": 28,
+                    "fat": 16,
+                    "description": "Boil in salted water for 15 minutes until tender."
+                },
+                {
+                    "meal": "Baked salmon with asparagus and roasted potatoes",
+                    "calories": 323,
+                    "protein": 35,
+                    "carbs": 33,
+                    "fat": 8,
+                    "description": "Roast in an oven at 200\u00b0C for 25 minutes until crispy."
+                }
+            ]
+        },
+        {
+            "tag": "Energy Boosting",
+            "patterns": [
+                "Suggest a energy boosting meal",
+                "I need a meal for energy boosting",
+                "Recommend a energy boosting diet",
+                "What should I eat for energy boosting goals?",
+                "Give me a energy boosting meal plan"
+            ],
+            "responses": [
+                {
+                    "meal": "Brown rice with grilled salmon and steamed veggies",
+                    "calories": 252,
+                    "protein": 15,
+                    "carbs": 74,
+                    "fat": 30,
+                    "description": "Bake at 180\u00b0C for 20 minutes until fully cooked."
+                },
+                {
+                    "meal": "Whole wheat pasta with lean beef and tomato sauce",
+                    "calories": 410,
+                    "protein": 25,
+                    "carbs": 47,
+                    "fat": 19,
+                    "description": "Roast in an oven at 200\u00b0C for 25 minutes until crispy."
+                },
+                {
+                    "meal": "Oatmeal with banana and almond butter",
+                    "calories": 684,
+                    "protein": 52,
+                    "carbs": 47,
+                    "fat": 12,
+                    "description": "Slow cook for 4 hours for deep flavor infusion."
+                },
+                {
+                    "meal": "Sweet potato and black bean burrito",
+                    "calories": 575,
+                    "protein": 44,
+                    "carbs": 53,
+                    "fat": 14,
+                    "description": "Bake at 180\u00b0C for 20 minutes until fully cooked."
+                }
+            ]
+        },
+        {
+            "tag": "Heart Healthy",
+            "patterns": [
+                "Suggest a heart healthy meal",
+                "I need a meal for heart healthy",
+                "Recommend a heart healthy diet",
+                "What should I eat for heart healthy goals?",
+                "Give me a heart healthy meal plan"
+            ],
+            "responses": [
+                {
+                    "meal": "Hummus with whole grain pita and Greek salad",
+                    "calories": 422,
+                    "protein": 27,
+                    "carbs": 24,
+                    "fat": 16,
+                    "description": "Boil in salted water for 15 minutes until tender."
+                },
+                {
+                    "meal": "Grilled fish with olives, tomatoes, and feta cheese",
+                    "calories": 637,
+                    "protein": 26,
+                    "carbs": 42,
+                    "fat": 30,
+                    "description": "Roast in an oven at 200\u00b0C for 25 minutes until crispy."
+                },
+                {
+                    "meal": "Lentil soup with olive oil and lemon",
+                    "calories": 340,
+                    "protein": 53,
+                    "carbs": 59,
+                    "fat": 24,
+                    "description": "Grill the ingredients for 10 minutes until golden brown."
+                },
+                {
+                    "meal": "Tabbouleh salad with grilled chicken",
+                    "calories": 511,
+                    "protein": 45,
+                    "carbs": 49,
+                    "fat": 22,
+                    "description": "Bake at 180\u00b0C for 20 minutes until fully cooked."
+                }
+            ]
+        }
+    ]
+}
