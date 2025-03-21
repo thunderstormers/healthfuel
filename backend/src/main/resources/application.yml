@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: healthfuel
+  jackson:
+    property-naming-strategy: SNAKE_CASE
+  ai:
+    openai:
+      api-key: AIzaSyAgTA4C5uwepSOh_DOm7sDruQXBGJ6CCug
+      chat:
+        base-url: https://generativelanguage.googleapis.com
+        completions-path: /v1beta/openai/chat/completions
+        options:
+          model: gemini-2.0-flash
