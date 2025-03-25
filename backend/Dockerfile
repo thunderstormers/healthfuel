@@ -2,7 +2,7 @@
 FROM openjdk:24-ea-21-slim
 
 # Set working directory
-WORKDIR /app
+WORKDIR /healthfuel
 
 # Install dependencies required for ONNX Runtime
 RUN apt-get update && apt-get install -y \
@@ -10,16 +10,14 @@ RUN apt-get update && apt-get install -y \
     libc6 \
     && rm -rf /var/lib/apt/lists/*
 
-# Copy the Spring Boot JAR file into the container
-COPY target/healthfuel-0.0.1-SNAPSHOT.jar app.jar
+# Copy entrypoint script into the container
+COPY docker-entrypoint.sh /docker-entrypoint.sh
+RUN chmod 777 /docker-entrypoint.sh
 
 # Expose the application port
 EXPOSE 8080
 
-ARG MODEL_PATH="classes/models/model.onnx"
+ARG MODEL_PATH="BOOT-INF/classes/models/model.onnx"
 
-RUN jar xf app.jar
-
-ENTRYPOINT ["java", "-jar", "app.jar"]
-# COPY docker-entrypoint.sh .
-# RUN chmod +x docker-entrypoint.sh
+# Define entrypoint
+ENTRYPOINT ["/bin/bash", "/docker-entrypoint.sh"]

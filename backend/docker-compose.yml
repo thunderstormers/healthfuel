@@ -1,0 +1,9 @@
+services:
+  healthfuel-app:
+    build: .
+    ports:
+      - "8080:8080"
+    volumes:
+      - ./target:/healthfuel
+    stdin_open: true
+    tty: true
