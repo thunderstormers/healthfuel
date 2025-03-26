@@ -1,22 +1,28 @@
 package com.thunderstormers.healthfuel.models;
 
 import jakarta.validation.constraints.NotNull;
+import lombok.Builder;
 
-import java.util.List;
-
+@Builder
 public record UserDietDetailsRequest(
-		String name,
-		double age,
-		double weight,
-		double height,
-		Gender gender,
-		@NotNull
-		List<String> foodAllergies,
-		@NotNull
-		List<String> medicalConditions,
-		String activityLevel,
-		String dietaryPreferences,
-		String goal,
-		ModelInputs inputs) {
+	float age,
+	float weightKg,
+	float heightCm,
+	@NotNull String gender,
+	@NotNull String dietaryRestrictions,
+	@NotNull String allergy,
+	@NotNull String diseaseType,
+	@NotNull String severity,
+	@NotNull String physicalActivityLevel,
+	@NotNull String preferredCuisine,
+	float weeklyExerciseHours,
+	float adherenceToDietPlan,
+	// @NotBlank String goal,
+	float dietaryNutrientImbalanceScore,
+	float BMI,
+	float dailyCaloricIntake,
+	float cholesterolMgDL,
+	float bloodPressureMmHg,
+	float glucoseMgDL) {
 
 }
