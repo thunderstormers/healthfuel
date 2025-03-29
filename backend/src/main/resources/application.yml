@@ -1,8 +1,6 @@
 spring:
   application:
     name: healthfuel
-  jackson:
-    property-naming-strategy: SNAKE_CASE
   ai:
     openai:
       api-key: AIzaSyAgTA4C5uwepSOh_DOm7sDruQXBGJ6CCug

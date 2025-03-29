@@ -61,7 +61,7 @@ public class DietMealService {
 		try {
 			return objectMapper.readValue(response, DietMealsDTO.class);
 		} catch (JsonProcessingException e) {
-			throw new InvalidPromptResponseException("Couldn't process LLM output: ", e);
+			throw new InvalidPromptResponseException("Couldn't process LLM output: ");
 		}
 	}
 

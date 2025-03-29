@@ -1,5 +1,6 @@
+name: healthfuel
 services:
-  healthfuel-app:
+  api:
     build: .
     ports:
       - "8080:8080"
