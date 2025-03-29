@@ -6,6 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.Bean;
 
 import com.thunderstormers.healthfuel.models.UserDietDetailsRequest;
+import com.thunderstormers.healthfuel.service.DietPlanReportService;
+import com.thunderstormers.healthfuel.service.DietMealService;
 import com.thunderstormers.healthfuel.service.DietRecommenderService;
 
 @SpringBootApplication
@@ -16,7 +18,7 @@ public class HealthfuelApplication {
 	}
 
 	@Bean
-	CommandLineRunner runner(DietRecommenderService service) {
+	CommandLineRunner runner(DietRecommenderService diets, DietMealService meals, DietPlanReportService pdfs) {
 		return (args) -> {
 			UserDietDetailsRequest request = UserDietDetailsRequest.builder()
 					.age(56)
@@ -39,7 +41,11 @@ public class HealthfuelApplication {
 					.dietaryNutrientImbalanceScore(3.1f)
 					.build();
 
-			System.out.println("Recommended Diet: " + service.predict(request));
+			var dietType = diets.predict(request);
+			var dietMeals = meals.promptLLMAPI(request, dietType);
+			var pdf = pdfs.exportDietMealsAsPdf(request, dietMeals);
+
+			System.out.println("Created file: " + pdf);
 		};
 	}
 }

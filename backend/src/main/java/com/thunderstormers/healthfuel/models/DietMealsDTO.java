@@ -3,6 +3,7 @@ package com.thunderstormers.healthfuel.models;
 import java.util.List;
 
 public record DietMealsDTO(
+        String dietType,
         MealSuggestions suggestedMeals,
         NutritionalInfo estimatedDailyNutritionalValue,
         List<String> generalDietaryAdvice) {
